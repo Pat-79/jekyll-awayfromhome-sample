@@ -2,7 +2,7 @@
 title: Away From Home Sample
 description: your getaway at home sample page
 url: "http://pat-79.github.io"
-baseurl: ""
+baseurl: "/jekyll-awayfromhome-sample"
 email: noreply@awayfromhome.nl
 
 # ── Remote theme ───────────────────────────────────────────────────────────────
