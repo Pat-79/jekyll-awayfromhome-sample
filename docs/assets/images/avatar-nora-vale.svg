@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 88" width="88" height="88">
+  <defs>
+    <linearGradient id="bg-nv" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4a8a5c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2a5537;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="44" cy="44" r="44" fill="url(#bg-nv)" />
+  <!-- Head -->
+  <circle cx="44" cy="32" r="13" fill="#d4e8ce" />
+  <!-- Body -->
+  <ellipse cx="44" cy="66" rx="18" ry="13" fill="#d4e8ce" />
+  <!-- Bob hair -->
+  <path d="M31 30 Q44 14 57 30 L57 38 Q44 44 31 38Z" fill="#6aac7e" />
+  <circle cx="44" cy="32" r="12" fill="#d4e8ce" />
+</svg>

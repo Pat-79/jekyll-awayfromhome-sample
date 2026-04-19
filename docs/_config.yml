@@ -1,0 +1,82 @@
+# ── Site identity ──────────────────────────────────────────────────────────────
+title: Away From Home Sample
+description: your getaway at home sample page
+url: "http://pat-79.github.io"
+baseurl: ""
+email: noreply@awayfromhome.nl
+
+# ── Remote theme ───────────────────────────────────────────────────────────────
+remote_theme: Pat-79/jekyll-awayfromhome
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+
+# ── Brand ──────────────────────────────────────────────────────────────────────
+brand:
+  title: awayfromhome sample
+  logo: /assets/images/logo-mark.svg
+
+# ── Navigation ─────────────────────────────────────────────────────────────────
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Blogs
+    url: /blog/
+  - title: Browse
+    url: /browse/
+  - title: Search
+    url: /search/
+
+# ── Social links ───────────────────────────────────────────────────────────────
+social_links:
+  - platform: youtube
+    url: https://www.youtube.com/@-Away-From-Home-
+  - platform: instagram
+    url: https://www.instagram.com/awayfromhome_nl/
+  - platform: github
+    url: https://github.com/Pat-79/jekyll-awayfromhome
+
+# ── Home landing hero ──────────────────────────────────────────────────────────
+default_post_image: /assets/images/default-hero.svg
+
+home_landing:
+  #video_url: https://youtu.be/VIDEO_ID
+  #youtube_id:
+  image: /assets/images/default-hero.svg
+  latest_posts_limit: 10
+  #hls_url: /assets/streams/sample_stream.m3u8
+  #hls_url: https://pat-79.github.io/assets/streams/sample/sample_stream.m3u8
+  hls_url: /assets/streams/sample/sample_stream.m3u8
+
+footer:
+  disclaimer: "This is a sample page for the Away From Home theme. All content is for demonstration purposes only."
+  copyright: "© 2026 <a href=\"https://github.com/Pat-79\" target=\"_blank\">Pat-79</a>. All rights reserved."
+
+# ── Author information ─────────────────────────────────────────────────────────
+author:
+  name: Patrick
+  avatar: /assets/images/avatar.svg
+  bio: Slow travel notes, practical route ideas, and visual field journals from the road.
+  location: Based in the Netherlands, usually somewhere else.
+
+# ── Authors directory (used by author-card lookup) ─────────────────────────────
+authors:
+  - name: Elin Rohe
+    avatar: /assets/images/avatar-elin-rohe.svg
+    bio: Train routes, mountain towns, and slow mornings in cold climates. Writes about pace over distance.
+    location: Based in Halvorn, Thaloria, often further north.
+  - name: Jonas Kade
+    avatar: /assets/images/avatar-jonas-kade.svg
+    bio: Desert roads, canyon hikes, and camp-site cooking under open skies. Prefers roads with no signal.
+    location: Based in Harrow Point, Varneth Republic.
+  - name: Mara Velin
+    avatar: /assets/images/avatar-mara-velin.svg
+    bio: Island ports, cliff roads, and the kind of food you remember years later. Covers coastal and island travel.
+    location: Based in Port Celen, Orindar, always near the sea when she can be.
+  - name: Nora Vale
+    avatar: /assets/images/avatar-nora-vale.svg
+    bio: City walks, museum afternoons, and train schedules that actually work. Writes about urban and cultural travel.
+    location: Based in Velis, Novaryn, comfortable in any transit hub.
+
