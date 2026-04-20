@@ -12,6 +12,11 @@ image: /assets/images/posts/2025-velsora-header.jpg
 
 I spent twelve days crossing the Velsora Continent by train, starting in the southern city of Rhen and ending in Northmark on the edge of the Glassea Coast. This was a touring vacation built around movement itself: wide observation windows, station cafés, and dramatic shifts in architecture between regions.
 
+{% include map-widget.html
+center="46.0569,14.5058"
+pins='[{"lat":46.0569,"lng":14.5058,"name":"Ljubljana"},{"lat":46.369,"lng":14.1136,"name":"Bled"}]'
+%}
+
 Velsora is politically divided into several partner states, but rail infrastructure is coordinated through one continental timetable. That makes border crossings surprisingly smooth. In lowland areas, stations are modern and quick. In older mountain corridors, line operators preserve classic stone depots and manual signal towers that still function during storms.
 
 ## Activities to do

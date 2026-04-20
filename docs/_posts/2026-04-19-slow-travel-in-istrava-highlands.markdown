@@ -6,7 +6,7 @@ date: 2026-04-19 13:25:00 +0200
 author: Mara Velin
 categories: [slow-travel, highlands, delcor]
 tags: [mountains, hiking, culture, rail-travel]
-image: /assets/images/posts/2026-istrava-header.webp
+image: /assets/images/posts/2026-04-19-slow-travel-in-istrava-highlands/2026-istrava-header.webp
 ---
 <p class="ai-disclaimer"><strong>AI Demo Disclaimer:</strong> This post is fictive AI-generated content. It is meant as demonstration for the  AwayFromHome theme. All images are fake,</p>
 
@@ -34,4 +34,6 @@ Delcor's highland culture is shaped by weather and stone. Houses in the Istrava 
 
 I woke before sunrise in Veya and joined a local guide for a quiet photo walk above the village terraces. We waited at a ridge bend until fog rolled through the lower valley and sunlight lit the slate rooftops. That half hour was one of the most peaceful travel moments I have had in years, and the photos still remind me why slow itineraries work so well.
 
-![Activity photo: dawn photo walk above Veya](/assets/images/posts/2026-istrava-activity.jpg)
+{% include gallery-widget.html
+	dir="/assets/images/posts/2026-04-19-slow-travel-in-istrava-highlands/"
+%}

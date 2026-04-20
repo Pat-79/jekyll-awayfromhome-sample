@@ -6,7 +6,7 @@ date: 2026-03-02 08:00:00 +0200
 author: Elin Rohe
 categories: [adventure-trip, canyon-region, touring]
 tags: [roadtrip, desert, hiking, stargazing]
-image: /assets/images/posts/2026-orrin-header.jpg
+image: /assets/images/posts/2026-03-02-canyon-skies-of-orrin-basin/2026-orrin-header.jpg
 ---
 <p class="ai-disclaimer"><strong>AI Demo Disclaimer:</strong> This post is fictive AI-generated content. It is meant as demonstration for the  AwayFromHome theme. All images are fake,</p>
 
@@ -20,12 +20,12 @@ Merovar runs a permit-light system for canyon access: simple checkpoints, trail 
 
 The Varrin Rim trail is a moderate route that follows the upper edge of the basin for panoramic views. Start early to avoid midday heat and carry enough water. This hike is the best way to understand the scale of the landscape.
 
-![Activity photo: canyon rim hiking route in Orrin Basin](/assets/images/posts/2026-orrin-activity-1.jpg)
-
 ### 2. Desert stargazing camp
 
 After sunset, guided camp groups set up in low-light zones away from the main roads. Dry air and minimal light pollution make star visibility excellent. Many tours include basic astronomy pointers, so even first-timers get a lot from the experience.
 
-![Activity photo: desert stargazing camp in Orrin Basin](/assets/images/posts/2026-orrin-activity-2.jpg)
+{% include gallery-widget.html
+	dir="/assets/images/posts/2026-03-02-canyon-skies-of-orrin-basin/"
+%}
 
 Orrin Basin is ideal for travelers who want simple logistics, big scenery, and activities centered on the landscape itself.

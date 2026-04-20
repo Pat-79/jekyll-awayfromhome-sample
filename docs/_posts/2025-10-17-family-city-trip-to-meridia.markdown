@@ -6,7 +6,7 @@ date: 2025-10-17 09:05:00 +0200
 author: Elin Rohe
 categories: [city-trip, family-travel, solmere]
 tags: [family-travel, city-break, museums, coastal]
-image: /assets/images/posts/2025-meridia-header.jpg
+image: /assets/images/posts/2025-10-17-family-city-trip-to-meridia/2025-meridia-header.jpg
 ---
 <p class="ai-disclaimer"><strong>AI Demo Disclaimer:</strong> This post is fictive AI-generated content. It is meant as demonstration for the  AwayFromHome theme. All images are fake,</p>
 
@@ -34,4 +34,6 @@ Solmere is proud of practical design. Meridia's old core is mostly pedestrian, w
 
 Before breakfast I rented a city bike and rode the inner loop of Crescent Park while the park cafés were opening. Families were doing light exercise, and maintenance crews were watering flower terraces before the heat arrived. It was a calm start that showed how livable Meridia is beyond its tourist highlights.
 
-![Activity photo: morning bike ride in Crescent Park](/assets/images/posts/2025-meridia-activity.jpg)
+{% include gallery-widget.html
+	dir="/assets/images/posts/2025-10-17-family-city-trip-to-meridia/"
+%}
