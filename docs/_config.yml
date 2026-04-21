@@ -53,7 +53,7 @@ home_landing:
 
 footer:
   disclaimer: "This is a sample page for the Away From Home theme. All content is for demonstration purposes only."
-  copyright: "© 2026 <a href=\"https://github.com/Pat-79\" target=\"_blank\">Pat-79</a>. All rights reserved."
+  copyright: "<a href=\"https://github.com/Pat-79\" target=\"_blank\">Pat-79</a>. All rights reserved."
 
 # ── Author information ─────────────────────────────────────────────────────────
 author:
