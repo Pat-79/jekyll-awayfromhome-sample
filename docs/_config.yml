@@ -1,7 +1,7 @@
 # ── Site identity ──────────────────────────────────────────────────────────────
 title: Away From Home Sample
 description: your getaway at home sample page
-url: "http://pat-79.github.io"
+url: "https:/demo.awayfromhome.nl"
 #baseurl: "/jekyll-awayfromhome-sample"
 email: noreply@awayfromhome.nl
 
@@ -45,7 +45,7 @@ home_landing:
   #video_url: https://youtu.be/VIDEO_ID
   #youtube_id:
   image: /assets/images/default-hero.svg
-  latest_posts_limit: 10
+  #latest_posts_limit: 10
   #hls_url: /assets/streams/sample_stream.m3u8
   #hls_url: https://pat-79.github.io/assets/streams/sample/sample_stream.m3u8
   hls_url: /assets/streams/sample/sample_stream.m3u8
