@@ -9,4 +9,4 @@ Welcome to the demo-website for the Away From Home theme. The content on the web
 
 The theme is available in my <a href="https://github.com/Pat-79/jekyll-awayfromhome" target="_blank" rel="noopener noreferrer">GitHub repository</a>. Instructions on how to use the theme are available there as well. You are able to have some control over colors by providing a variable SCSS sheet. Details are in the <a href="https://github.com/Pat-79/jekyll-awayfromhome#readme" target="_blank" rel="noopener noreferrer">README</a>.
 
-<p class="ai-disclaimer"><strong>AI Demo Disclaimer:</strong> This post is fictive AI-generated content. It is meant as demonstration for the  AwayFromHome theme. All images are fake,</p>
+<p class="ai-disclaimer"><strong>AI Demo Disclaimer:</strong> This websit contains fictive AI-generated content. It is meant as demonstration for the  AwayFromHome theme. All images are fake,</p>
