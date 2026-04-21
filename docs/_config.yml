@@ -1,8 +1,9 @@
 # ── Site identity ──────────────────────────────────────────────────────────────
 title: Away From Home Sample
 description: your getaway at home sample page
-url: "http://pat-79.github.io"
+url: "https:/demo.awayfromhome.nl"
 #baseurl: "/jekyll-awayfromhome-sample"
+permalink: /blog/:year-:month-:day_:title/
 email: noreply@awayfromhome.nl
 
 # ── Remote theme ───────────────────────────────────────────────────────────────
@@ -45,14 +46,14 @@ home_landing:
   #video_url: https://youtu.be/VIDEO_ID
   #youtube_id:
   image: /assets/images/default-hero.svg
-  latest_posts_limit: 10
+  #latest_posts_limit: 10
   #hls_url: /assets/streams/sample_stream.m3u8
   #hls_url: https://pat-79.github.io/assets/streams/sample/sample_stream.m3u8
   hls_url: /assets/streams/sample/sample_stream.m3u8
 
 footer:
   disclaimer: "This is a sample page for the Away From Home theme. All content is for demonstration purposes only."
-  copyright: "© 2026 <a href=\"https://github.com/Pat-79\" target=\"_blank\">Pat-79</a>. All rights reserved."
+  copyright: "<a href=\"https://github.com/Pat-79\" target=\"_blank\">Pat-79</a>. All rights reserved."
 
 # ── Author information ─────────────────────────────────────────────────────────
 author:
