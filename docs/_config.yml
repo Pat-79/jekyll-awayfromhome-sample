@@ -3,6 +3,7 @@ title: Away From Home Sample
 description: your getaway at home sample page
 url: "https:/demo.awayfromhome.nl"
 #baseurl: "/jekyll-awayfromhome-sample"
+permalink: /blog/:year-:month-:day_:title/
 email: noreply@awayfromhome.nl
 
 # ── Remote theme ───────────────────────────────────────────────────────────────
