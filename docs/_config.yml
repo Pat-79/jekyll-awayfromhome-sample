@@ -80,3 +80,42 @@ authors:
     bio: City walks, museum afternoons, and train schedules that actually work. Writes about urban and cultural travel.
     location: Based in Velis, Novaryn, comfortable in any transit hub.
 
+map_widget:
+  tile_url: https://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}
+  #tile_url: https://{s}.openstreetmap.org/{z}/{x}/{y}.png
+  tile_attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  tile_subdomains:
+  tile_max_zoom: 19
+  locked: true
+  scroll_wheel_zoom: false
+  dragging:
+  touch_zoom:
+  double_click_zoom:
+  box_zoom:
+  keyboard:
+  tile_referrer_policy: strict-origin-when-cross-origin
+  tile_cross_origin:
+  max_width:
+  max_height:
+
+video_widget:
+  width:
+  height:
+  max_width:
+  max_height:
+  aspect_ratio: 16:9
+  bare: false
+  autoplay: false
+  muted: false
+  loop: false
+  controls: true
+  playsinline: true
+  preload: metadata
+  lazy: true
+  privacy_mode: true
+  referrer_policy: strict-origin-when-cross-origin
+  poster: /assets/images/default-hero.svg
+
+gallery_widget:
+  max_width:
+  max_height:
