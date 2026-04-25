@@ -120,3 +120,13 @@ video_widget:
 gallery_widget:
   max_width:
   max_height:
+  show_image_caption: false
+  show_image_description: false
+  
+sidebar:
+  archive:
+    enabled: true
+    # Supported: 'year' | 'month-year' | 'year-month-tree'
+    # mode: month-year
+    mode: year-month-tree
+    show_post_counts: true
