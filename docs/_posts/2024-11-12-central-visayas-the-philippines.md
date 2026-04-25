@@ -1,7 +1,7 @@
 ---
 title: Exploring Central Visayas, the Philippines 🇵🇭
 author: Patrick
-date: 2025-02-09 08:15:00 +0200
+date: 2024-11-12 12:15:00 -0500
 categories: [vacation]
 tags: [asia,island,mountain,philippines,relaxing,sea,summer,tropical,vacation]
 image: /assets/images/posts/2024-11-12-central-visayas-the-philippines/WhatsApp-Image-2024-11-12-at-22.35.40-3-1024x578.jpeg
