@@ -1,0 +1,121 @@
+# Dutch UI strings
+site:
+  title: Away From Home
+  description: Een reisblog dat de wereld in langzamer tempo verkent.
+
+nav:
+  home: Home
+  about: Over
+  blog: Blog
+  browse: Bladeren
+  search: Zoeken
+  archive: Archief
+  tags: Tags
+
+ui:
+  language: Taal
+  search_placeholder: Doorzoek verhalen...
+  open_menu: Sitemenu openen
+  latest_posts: Laatste berichten
+  read_more: Lees meer...
+  continue_reading: Verder lezen
+  written_by: Geschreven door
+  by: "door"
+  in: "in"
+  previous: Vorige
+  next: Volgende
+  sitemap: Sitemap
+  date_format: "%-d %B %Y"
+  home_breadcrumb: Home
+
+drawer:
+  navigate: Navigeren
+  tags: Tags
+  social: Sociale media
+  archive: Archief
+
+theme:
+  label: Thema
+  system: Systeem
+  light: Licht
+  dark: Donker
+  share: Deel deze pagina
+  copied: URL gekopieerd naar klembord
+
+archive:
+  filters: Archieffilters
+  year: Jaar
+  month: Maand
+  day: Dag
+  all_years: Alle jaren
+  all_months: Alle maanden
+  all_days: Alle dagen
+  clear: Filters wissen
+  no_results: Geen berichten gevonden voor de geselecteerde datumcriteria.
+  filtered_by: "Gefilterd op {filter}"
+  showing_all: Alle berichten weergeven
+  post_count_one: "1 bericht"
+  post_count: "{count} berichten"
+  page_of: "Pagina {page} van {total}"
+  months:
+    "1": januari
+    "2": februari
+    "3": maart
+    "4": april
+    "5": mei
+    "6": juni
+    "7": juli
+    "8": augustus
+    "9": september
+    "10": oktober
+    "11": november
+    "12": december
+
+blog:
+  intro: Recente berichten met de herbruikbare artikelopmaak.
+  page_of: "Pagina {page} van {total}"
+
+browse:
+  intro: Selecteer een categorie om berichten en pagina's te filteren op auteur, categorie of tag.
+  authors: Auteurs
+  categories: Categorieën
+  tags: Tags
+  no_authors: "Nog geen auteurs beschikbaar."
+  no_categories: "Nog geen categorieën beschikbaar."
+  no_tags: "Nog geen tags beschikbaar."
+  eyebrow_author: "Auteur"
+  eyebrow_category: "Categorie"
+  eyebrow_tag: "Tag"
+  item_count_one: "1 item"
+  item_count: "{count} items"
+  showing_author: 'Berichten en pagina''s van "{label}" weergeven.'
+  showing_tag: 'Berichten en pagina''s getagd "{label}" weergeven.'
+  showing_category: 'Berichten en pagina''s in categorie "{label}" weergeven.'
+  not_found_eyebrow: "Filter"
+  not_found_title: "Filter bestaat niet"
+  not_found_message: "De gevraagde auteur, categorie of tag kan niet worden weergegeven omdat deze niet bestaat op deze site."
+  not_found_status: "Het gevraagde filter bestaat niet."
+  page_label: "Pagina"
+
+search:
+  intro: Vind verhalen, plaatsen en pagina's op de site.
+  word_regex: "[A-Za-zÀ-ÖØ-öø-ÿ0-9''\\-]+"
+  stopwords: "aan,al,alle,alles,als,altijd,andere,ben,bij,daar,dan,dat,de,der,deze,die,dit,doch,doen,door,dus,een,eens,elk,en,er,geen,geweest,haar,had,heb,hebben,heeft,hem,het,hier,hij,hoe,hun,iemand,iets,ik,in,is,je,kan,kon,maar,me,meer,men,met,mijn,mij,moet,na,naar,niet,niets,nog,nu,of,om,onder,ons,ook,op,over,reeds,te,tegen,toch,toen,tot,uit,uw,van,veel,voor,was,wat,we,wel,werd,wij,wil,worden,wordt,zal,ze,zelf,zich,zij,zijn,zo,zou"
+
+tags:
+  intro: Filter berichten op tag, of laat de pagina ongefilterd om alle getagde secties te bekijken.
+  all: Alles
+  showing_all: Berichten voor alle tags weergeven.
+  showing_tagged: 'Berichten getagd "{label}" weergeven.'
+  eyebrow: TAG
+  post_count_one: "1 bericht"
+  post_count: "{count} berichten"
+  read_more: Lees meer...
+  not_found: "De gevraagde tag bestaat niet."
+  not_found_title: "Tag bestaat niet"
+  not_found_message: "De gevraagde tag kan niet worden weergegeven omdat deze niet bestaat op deze site."
+  no_tags: "Nog geen tags."
+
+footer:
+  copyright: Alle rechten voorbehouden.
+  disclaimer: Inhoud en meningen worden verstrekt voor informatieve doeleinden.

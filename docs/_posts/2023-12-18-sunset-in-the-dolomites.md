@@ -1,5 +1,7 @@
 ---
 layout: post
+lang: en
+ref: sunset-in-the-dolomites
 title: Sunset in the Dolomites 🇮🇹 
 excerpt: "The Dolomites are one of the most beautiful areas of the Alps in Europe. They are located (mostly) in North-East Italy, in the provinces of South-Tirol, Trentino and Veneto and are nowadays part of the UNESCO World Heritage Site. The Dolomites have many rugged peaks, up to a height of 3343 meters and are known for their breathtaking vistas from the tops and beautiful valleys. What better then end a day of skiing in December on top of a hill overlooking the beautiful Fassa Valley, together with a beautiful sunshine and music in the background!"
 date: 2023-02-09 19:15:00 +0200

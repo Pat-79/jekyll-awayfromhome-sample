@@ -1,0 +1,121 @@
+# Arabic UI strings (العربية)
+site:
+  title: بعيداً عن الوطن
+  description: مدوّنة سفر تستكشف العالم بخطى هادئة.
+
+nav:
+  home: الرئيسية
+  about: حول
+  blog: المدوّنة
+  browse: استعراض
+  search: بحث
+  archive: أرشيف
+  tags: وسوم
+
+ui:
+  language: اللغة
+  search_placeholder: ابحث في القصص...
+  open_menu: فتح قائمة الموقع
+  latest_posts: أحدث المقالات
+  read_more: اقرأ المزيد...
+  continue_reading: تابع القراءة
+  written_by: كتبه
+  by: "بقلم"
+  in: "في"
+  previous: السابق
+  next: التالي
+  sitemap: خريطة الموقع
+  date_format: "%-d %B %Y"
+  home_breadcrumb: الرئيسية
+
+drawer:
+  navigate: تصفّح
+  tags: الوسوم
+  social: وسائل التواصل
+  archive: الأرشيف
+
+theme:
+  label: المظهر
+  system: النظام
+  light: فاتح
+  dark: داكن
+  share: مشاركة هذه الصفحة
+  copied: تم نسخ الرابط
+
+archive:
+  filters: تصفية الأرشيف
+  year: السنة
+  month: الشهر
+  day: اليوم
+  all_years: جميع السنوات
+  all_months: جميع الأشهر
+  all_days: جميع الأيام
+  clear: مسح الفلاتر
+  no_results: لم يُعثر على مقالات تطابق معايير التاريخ المحددة.
+  filtered_by: "مُصفَّى حسب {filter}"
+  showing_all: عرض جميع المقالات
+  post_count_one: "مقالة واحدة"
+  post_count: "{count} مقالات"
+  page_of: "الصفحة {page} من {total}"
+  months:
+    "1": يناير
+    "2": فبراير
+    "3": مارس
+    "4": أبريل
+    "5": مايو
+    "6": يونيو
+    "7": يوليو
+    "8": أغسطس
+    "9": سبتمبر
+    "10": أكتوبر
+    "11": نوفمبر
+    "12": ديسمبر
+
+blog:
+  intro: أحدث المقالات باستخدام تخطيط المقالة القابل لإعادة الاستخدام.
+  page_of: "الصفحة {page} من {total}"
+
+browse:
+  intro: اختر تصنيفاً للفلترة حسب الكاتب أو الفئة أو الوسم.
+  authors: الكتّاب
+  categories: الفئات
+  tags: الوسوم
+  no_authors: "لا يوجد كتّاب بعد."
+  no_categories: "لا توجد فئات بعد."
+  no_tags: "لا توجد وسوم بعد."
+  eyebrow_author: "كاتب"
+  eyebrow_category: "فئة"
+  eyebrow_tag: "وسم"
+  item_count_one: "عنصر واحد"
+  item_count: "{count} عناصر"
+  showing_author: 'عرض المقالات والصفحات بقلم "{label}".'
+  showing_tag: 'عرض المقالات والصفحات الموسومة بـ "{label}".'
+  showing_category: 'عرض المقالات والصفحات في فئة "{label}".'
+  not_found_eyebrow: "فلتر"
+  not_found_title: "الفلتر غير موجود"
+  not_found_message: "تعذّر عرض الكاتب أو الفئة أو الوسم المطلوب لأنه غير موجود في هذا الموقع."
+  not_found_status: "الفلتر المطلوب غير موجود."
+  page_label: "صفحة"
+
+search:
+  intro: ابحث في القصص والأماكن والصفحات عبر الموقع.
+  word_regex: "[\\u0600-\\u06FF\\u0750-\\u077F\\uFB50-\\uFDFF\\uFE70-\\uFEFF]+"
+  stopwords: "هذا,هذه,ذلك,تلك,التي,الذي,الذين,كان,كانت,ليس,ليست,عند,لدى,بعض,كي,كيف,لماذا,حيث,فوق,تحت,أمام,خلف,داخل,خارج,بعد,قبل,منذ,حتى,بين,خلال,ضمن,حول,رغم,بسبب,لأن,حين,عندما,بينما,مثل,كما,وفق,طبق,عبر,إذا,لولا"
+
+tags:
+  intro: تصفّح المقالات حسب الوسم، أو اتركها دون فلترة لتستعرض كل الأقسام.
+  all: الكل
+  showing_all: عرض مقالات جميع الوسوم.
+  showing_tagged: 'عرض المقالات الموسومة بـ "{label}".'
+  eyebrow: وسم
+  post_count_one: "مقالة واحدة"
+  post_count: "{count} مقالات"
+  read_more: اقرأ المزيد...
+  not_found: "الوسم المطلوب غير موجود."
+  not_found_title: "الوسم غير موجود"
+  not_found_message: "تعذّر عرض الوسم المطلوب لأنه غير موجود في هذا الموقع."
+  no_tags: "لا توجد وسوم بعد."
+
+footer:
+  copyright: جميع الحقوق محفوظة.
+  disclaimer: المحتوى والآراء مقدَّمة لأغراض إعلامية فحسب.

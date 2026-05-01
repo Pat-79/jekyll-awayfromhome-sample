@@ -2,6 +2,7 @@
 title: home
 layout: home
 home_per_page: 3
+ref: page-home
 ---
 
 ## Welcome!

@@ -1,0 +1,121 @@
+# English UI strings
+site:
+  title: Away From Home
+  description: A travel blog exploring the world at a slower pace.
+
+nav:
+  home: Home
+  about: About
+  blog: Blog
+  browse: Browse
+  search: Search
+  archive: Archive
+  tags: Tags
+
+ui:
+  language: Language
+  search_placeholder: Search stories...
+  open_menu: Open site menu
+  latest_posts: Latest Posts
+  read_more: Read more...
+  continue_reading: Continue Reading
+  written_by: Written By
+  by: "by"
+  in: "in"
+  previous: Previous
+  next: Next
+  sitemap: Sitemap
+  date_format: "%B %-d, %Y"
+  home_breadcrumb: Home
+
+drawer:
+  navigate: Navigate
+  tags: Tags
+  social: Social Media
+  archive: Archive
+
+theme:
+  label: Theme
+  system: System
+  light: Light
+  dark: Dark
+  share: Share this page
+  copied: URL copied to clipboard
+
+archive:
+  filters: Archive Filters
+  year: Year
+  month: Month
+  day: Day
+  all_years: All years
+  all_months: All months
+  all_days: All days
+  clear: Clear Filters
+  no_results: No posts found for the selected date criteria.
+  filtered_by: "Filtered by {filter}"
+  showing_all: Showing all posts
+  post_count_one: "1 post"
+  post_count: "{count} posts"
+  page_of: "Page {page} of {total}"
+  months:
+    "1": January
+    "2": February
+    "3": March
+    "4": April
+    "5": May
+    "6": June
+    "7": July
+    "8": August
+    "9": September
+    "10": October
+    "11": November
+    "12": December
+
+blog:
+  intro: Recent posts using the reusable article layout.
+  page_of: "Page {page} of {total}"
+
+browse:
+  intro: Select a category below to filter posts and pages by author, category, or tag.
+  authors: Authors
+  categories: Categories
+  tags: Tags
+  no_authors: "No authors available yet."
+  no_categories: "No categories available yet."
+  no_tags: "No tags available yet."
+  eyebrow_author: "Author"
+  eyebrow_category: "Category"
+  eyebrow_tag: "Tag"
+  item_count_one: "1 item"
+  item_count: "{count} items"
+  showing_author: 'Showing posts and pages by "{label}".'
+  showing_tag: 'Showing posts and pages tagged "{label}".'
+  showing_category: 'Showing posts and pages in category "{label}".'
+  not_found_eyebrow: "Filter"
+  not_found_title: "Filter does not exist"
+  not_found_message: "Unable to show the requested author, category, or tag because it does not exist in this site."
+  not_found_status: "The requested filter does not exist."
+  page_label: "Page"
+
+search:
+  intro: Find stories, places, and pages across the site.
+  word_regex: "[A-Za-zÀ-ÖØ-öø-ÿ0-9''\\-]+"
+  stopwords: "a,about,above,after,again,against,all,am,an,and,any,are,as,at,be,because,been,before,being,below,between,both,but,by,can,could,did,do,does,doing,down,during,each,few,for,from,had,has,have,he,her,hers,him,his,how,i,if,in,into,is,it,its,just,me,more,most,my,no,nor,not,of,on,or,other,our,out,over,own,same,she,so,some,such,than,that,the,their,them,then,there,these,they,this,those,to,too,under,until,up,very,was,we,were,what,when,where,which,while,who,whom,why,will,with,would,you,your"
+
+tags:
+  intro: Filter posts by tag, or leave the page unfiltered to browse every tagged section.
+  all: All
+  showing_all: Showing posts for all tags.
+  showing_tagged: 'Showing posts tagged "{label}".'
+  eyebrow: TAG
+  post_count_one: "1 post"
+  post_count: "{count} posts"
+  read_more: Read more...
+  not_found: "The requested tag does not exist."
+  not_found_title: "Tag does not exist"
+  not_found_message: "Unable to show the requested tag because it does not exist in this site."
+  no_tags: "No tags yet."
+
+footer:
+  copyright: All rights reserved.
+  disclaimer: Content and opinions are provided for informational purposes.

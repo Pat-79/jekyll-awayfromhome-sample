@@ -1,0 +1,121 @@
+# German UI strings
+site:
+  title: Away From Home
+  description: Ein Reiseblog, der die Welt in langsamerer Tempo erkundet.
+
+nav:
+  home: Startseite
+  about: Über
+  blog: Blog
+  browse: Stöbern
+  search: Suche
+  archive: Archiv
+  tags: Tags
+
+ui:
+  language: Sprache
+  search_placeholder: Geschichten durchsuchen...
+  open_menu: Websitemenü öffnen
+  latest_posts: Neueste Beiträge
+  read_more: Mehr lesen...
+  continue_reading: Weiterlesen
+  written_by: Geschrieben von
+  by: "von"
+  in: "in"
+  previous: Vorherige
+  next: Nächste
+  sitemap: Sitemap
+  date_format: "%-d. %B %Y"
+  home_breadcrumb: Startseite
+
+drawer:
+  navigate: Navigieren
+  tags: Tags
+  social: Soziale Medien
+  archive: Archiv
+
+theme:
+  label: Thema
+  system: System
+  light: Hell
+  dark: Dunkel
+  share: Diese Seite teilen
+  copied: URL in die Zwischenablage kopiert
+
+archive:
+  filters: Archivfilter
+  year: Jahr
+  month: Monat
+  day: Tag
+  all_years: Alle Jahre
+  all_months: Alle Monate
+  all_days: Alle Tage
+  clear: Filter zurücksetzen
+  no_results: Keine Beiträge für die ausgewählten Datumskriterien gefunden.
+  filtered_by: "Gefiltert nach {filter}"
+  showing_all: Alle Beiträge anzeigen
+  post_count_one: "1 Beitrag"
+  post_count: "{count} Beiträge"
+  page_of: "Seite {page} von {total}"
+  months:
+    "1": Januar
+    "2": Februar
+    "3": März
+    "4": April
+    "5": Mai
+    "6": Juni
+    "7": Juli
+    "8": August
+    "9": September
+    "10": Oktober
+    "11": November
+    "12": Dezember
+
+blog:
+  intro: Neueste Beiträge mit dem wiederverwendbaren Artikellayout.
+  page_of: "Seite {page} von {total}"
+
+browse:
+  intro: Wähle eine Kategorie, um Beiträge und Seiten nach Autor, Kategorie oder Tag zu filtern.
+  authors: Autoren
+  categories: Kategorien
+  tags: Tags
+  no_authors: "Noch keine Autoren verfügbar."
+  no_categories: "Noch keine Kategorien verfügbar."
+  no_tags: "Noch keine Tags verfügbar."
+  eyebrow_author: "Autor"
+  eyebrow_category: "Kategorie"
+  eyebrow_tag: "Tag"
+  item_count_one: "1 Eintrag"
+  item_count: "{count} Einträge"
+  showing_author: 'Beiträge und Seiten von "{label}" anzeigen.'
+  showing_tag: 'Beiträge und Seiten mit dem Tag "{label}" anzeigen.'
+  showing_category: 'Beiträge und Seiten in der Kategorie "{label}" anzeigen.'
+  not_found_eyebrow: "Filter"
+  not_found_title: "Filter nicht vorhanden"
+  not_found_message: "Der angeforderte Autor, die Kategorie oder der Tag kann nicht angezeigt werden, da er auf dieser Website nicht vorhanden ist."
+  not_found_status: "Der angeforderte Filter ist nicht vorhanden."
+  page_label: "Seite"
+
+search:
+  intro: Finde Geschichten, Orte und Seiten auf der Website.
+  word_regex: "[A-Za-zÀ-ÖØ-öø-ÿ0-9''\\-]+"
+  stopwords: "aber,alle,allem,allen,aller,alles,als,also,am,an,andere,anderem,anderen,anderer,anderes,auch,auf,aus,bei,bin,bis,bist,da,damit,dann,das,dass,dem,den,der,des,dich,die,dies,diese,dieselbe,dieselben,diesem,diesen,dieser,dieses,dir,doch,dort,du,dies,dumm,durch,dürft,eben,ebenso,eigen,eigene,einig,einige,einigen,einiger,einiges,einmal,eins,einsam,einst,eintrag,einzeln,einzige,einzigen,einziger,einziges,eis,eiskalt,eiter,eiweiß,eizelle,eizelle,ejaculation,ejakulationen,ejakuliert,ekau,ekel,ekelbar,ekelerregend,ekelhaft,ekelhafte,ekeln,ekelnd,ekelnd,ekelnd,ekelnd,ekelnd,ekels,ekligst,ekstasen,ekstase,ekstatik,ekstatisch,ekzem,ekzeme,el,elain,elan,eland,elands,elanor,elastic,elastik,elate,elater,elba,elbe,elben,elbinge,elbisch,elbogen,elbstrom,elder,elderschaft,eldras,eldred,eldress,eldrich,eldritch,elea,eleate,eleaten,eleatisch,eleatismus,eleckos,eleemosyna,elefant,elefanten,elefantenochse,elefantheit,elefantisch,elefantitis,elefantius,elefantopus,elefantös,elefantozoon,elegant,elegans,elegante,eleganter,elegantesten,elegantesten,elegantheit,elegantia,elegantias,elegantie,elegantie,elegantiae,elegantiam,elegantie,elegantis,elegantissime,elegantissimi,elegantissimo,elegantissimos,elegantissimum,elegantius,elegantium,elegantque,eleganz,eleggias,elegiacal,elegiaca,elegiacae,elegiac,elegiacs,elegiach,elegiae,elegiague,elegiak,elegiala,elegialer,elegialia,elegiamon,elegian,elegiana,elegiase,elegiae,elegeia,elegeis,elegela,elegeli,elegema,elegena,elegant,elegens,elegenstein,eleger,elegers,elegesti,elegestralia,elegeta,elegeta,elegeta,elegeta,elegeta,elegeta,elegeta,elegeta,elegeia,elegeis,elegia,elegiae,elegiague,elegiae,elegiae,elegiah,elegiaidis,elegiain,elegial,elegiale,elegiale,elegialisch,elegiale,elegialk,elegiallia,elegially,elegials,elegialium,elegiallis,elegias,elegias,elegiarum,elegias,elegias,elegias,elegias,elegias,elegiasi,elegiastri,elegiastrum,elegiastrum,elegiata,elegiati,elegiatis,elegiate,elegiatis,elegiatica,elegiatici,elegiaticum,elegiaticum,elegiaticorum,elegiaticum,elegiaticus,elegiatis,elegiatische,elegiatischem,elegiatischen,elegiatischer,elegiatisches,elegiatiska,elegiatiska,elegiatiska,elegiatiska,elegiaticae,elegiatae,elegiatae,elegiatica,elegiaticum,elegiaticae,elegiatarum,elegiatae,elegiati,elegiatici,elegiatorum,elegiati,elegiatica,elegiaticus,elegiatis,elegiaticae,elegiatae,elegiati,elegiatica,elegiatis,elegiatim,elegiatis,elegiatisch,elegiatis,elegiatisieren,elegiaum,elegiatlich,elegiatlichst,elegiatis,elegiatlich,elegiatliche,elegiatlichem,elegiatlichen,elegiatlicher,elegiatliches,elegiatlichkeit,elegiats,elegiatum,elegiaul,elegiaule,elegiauli,elegiauli,elegiaulus,elegiaurum,elegiauum,elegiaula,elegiaulum,elegiaurum,elegiavit,elegiavis,elegiavisne,elegiavit,elegiavis,elegiavit,elegiavit,elegiavit,elegiavis,elegiavi,elegiavi,elegiavit,elegiavi,elegiavi,elegiavisne,elegiavissime,elegiavisse,elegiavissem,elegiavissent,elegiavit,elegiaverat,elegiaverant,elegiavi,elegiavit,elegiave"
+
+tags:
+  intro: Filter Beiträge nach Tag, oder lass die Seite ungefiltert, um alle Tag-Abschnitte zu durchsuchen.
+  all: Alle
+  showing_all: Beiträge für alle Tags anzeigen.
+  showing_tagged: 'Beiträge mit dem Tag "{label}" anzeigen.'
+  eyebrow: TAG
+  post_count_one: "1 Beitrag"
+  post_count: "{count} Beiträge"
+  read_more: Mehr lesen...
+  not_found: "Das angeforderte Tag existiert nicht."
+  not_found_title: "Tag existiert nicht"
+  not_found_message: "Das angeforderte Tag kann nicht angezeigt werden, da es auf dieser Website nicht existiert."
+  no_tags: "Noch keine Tags."
+
+footer:
+  copyright: Alle Rechte vorbehalten.
+  disclaimer: Inhalte und Meinungen werden nur zu Informationszwecken bereitgestellt.

@@ -17,18 +17,28 @@ brand:
   title: awayfromhome sample
   logo: /assets/images/logo-mark.svg
 
-# ── Navigation ─────────────────────────────────────────────────────────────────
+
 navigation:
   - title: Home
+    key: home
     url: /
+    url_ar: /ar/
   - title: About
+    key: about
     url: /about/
+    url_ar: /ar/about/
   - title: Blogs
+    key: blog
     url: /blog/
+    url_ar: /ar/blog/
   - title: Browse
+    key: browse
     url: /browse/
+    url_ar: /ar/browse/
   - title: Search
+    key: search
     url: /search/
+    url_ar: /ar/search/
 
 # ── Social links ───────────────────────────────────────────────────────────────
 social_links:
@@ -130,3 +140,66 @@ sidebar:
     # mode: month-year
     mode: year-month-tree
     show_post_counts: true
+
+
+# Multilingual settings
+lang: en   # default site language
+
+# When true, post/page listings on non-default-language pages will include
+# default-language posts that have no translation in the current language
+# (identified by a missing `ref` partner). Useful as a graceful fallback
+# so non-English pages don't appear empty while content is being translated.
+lang_fallback: true
+
+# Languages available on this site.
+# 'code' must match the lang front-matter value and the folder name under ar/, fr/, etc.
+# 'native' is shown in the language selector UI.
+languages:
+  - code: en
+    name: English
+    native: English
+    flag: "🇬🇧"
+  - code: de
+    name: German
+    native: Deutsch
+    flag: "🇩🇪"
+  - code: nl
+    name: Dutch
+    native: Nederlands
+    flag: "🇳🇱"
+  - code: ar
+    name: Arabic
+    native: العربية
+    flag: "🇸🇦"
+
+# Defaults: give every file a lang and give posts their permalink prefix.
+# Order matters — later entries override earlier ones for the same file.
+defaults:
+  - scope: { path: "", type: "posts" }
+    values:
+      lang: en
+      permalink: "/blog/:year-:month-:day_:title/"
+  - scope: { path: "" }
+    values:
+      lang: en
+  - scope: { path: "ar" }
+    values:
+      lang: ar
+  - scope: { path: "_posts/ar", type: "posts" }
+    values:
+      lang: ar
+      permalink: "/ar/blog/:slug/"
+  - scope: { path: "nl" }
+    values:
+      lang: nl
+  - scope: { path: "_posts/nl", type: "posts" }
+    values:
+      lang: nl
+      permalink: "/nl/blog/:slug/"
+  - scope: { path: "de" }
+    values:
+      lang: de
+  - scope: { path: "_posts/de", type: "posts" }
+    values:
+      lang: de
+      permalink: "/de/blog/:slug/"
