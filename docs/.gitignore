@@ -3,3 +3,8 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+.vscode
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
