@@ -12,10 +12,12 @@
   bio:
     default: Exploring local cities, scenic drives, and practical family travel routes.
     en: Exploring local cities, scenic drives, and practical family travel routes.
+    de: Lokale Staedtereisen, landschaftlich schoene Routen und praktische Reiserouten fuer Familien.
     nl: Lokale stedentrips, mooie autoroutes en praktische familievakanties.
   location:
     default: The Netherlands
     en: The Netherlands
+    de: Niederlande
     nl: Nederland
   page_url: /author-patrick/
   social_links:
