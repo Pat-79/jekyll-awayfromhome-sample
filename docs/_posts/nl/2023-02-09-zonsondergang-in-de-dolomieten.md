@@ -8,7 +8,7 @@ date: 2023-02-09 19:15:00 +0200
 author: Patrick
 categories: [wintersport]
 tags: [alps,dolomites,europa,italië,mountain,relaxing,snow,vacation,winter]
-image: /assets/images/posts/2023-12-18-sunset-in-the-dolomites/full/5_saslong.jpeg
+image: /assets/images/posts/2023-12-18-sunset-in-the-dolomites/5_saslong.jpg
 ---
 
 De Dolomieten zijn een van de mooiste gebieden van de Alpen in Europa. Ze liggen (meestal) in Noord-Oost Italië, in de provincies Zuid-Tirol, Trentino en Veneto en maken tegenwoordig deel uit van de UNESCO Werelderfgoedlijst.

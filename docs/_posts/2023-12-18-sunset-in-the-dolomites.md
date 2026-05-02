@@ -8,7 +8,7 @@ date: 2023-02-09 19:15:00 +0200
 author: Patrick
 categories: [wintersport]
 tags: [alps,dolomites,europe,italy,mountain,relaxing,snow,vacation,winter]
-image: /assets/images/posts/2023-12-18-sunset-in-the-dolomites/full/5_saslong.jpeg
+image: /assets/images/posts/2023-12-18-sunset-in-the-dolomites/5_saslong.jpg
 ---
 
 The Dolomites are one of the most beautiful areas of the Alps in Europe. They are located (mostly) in North-East Italy, in the provinces of South-Tirol, Trentino and Veneto and are nowadays part of the UNESCO World Heritage Site.

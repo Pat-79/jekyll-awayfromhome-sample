@@ -8,7 +8,7 @@ date: 2023-02-09 19:15:00 +0200
 author: Patrick
 categories: [wintersport]
 tags: [alpen,dolomiten,europa,italien,mountain,relaxing,schnee,urlaub,winter]
-image: /assets/images/posts/2023-12-18-sunset-in-the-dolomites/full/5_saslong.jpeg
+image: /assets/images/posts/2023-12-18-sunset-in-the-dolomites/5_saslong.jpg
 ---
 
 Die Dolomiten sind eine der schönsten Gegenden der Alpen in Europa. Sie liegen (hauptsächlich) in Nordostitalien, in den Provinzen Südtirol, Trentino und Venetien und sind heute Teil der UNESCO-Weltkulturerbestätte.
