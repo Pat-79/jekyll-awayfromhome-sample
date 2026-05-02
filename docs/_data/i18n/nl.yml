@@ -21,6 +21,7 @@ ui:
   continue_reading: Verder lezen
   written_by: Geschreven door
   by: "door"
+  on: "op"
   in: "in"
   previous: Vorige
   next: Volgende
