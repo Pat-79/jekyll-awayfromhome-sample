@@ -1,0 +1,50 @@
+# Author directory used by author-card include.
+# Match posts using: author: Exact Name Here
+# Optional keys: avatar, bio, location, page_url (or page), social_links
+# bio and location can be a plain string or a language map:
+# bio:
+#   default: Default fallback text
+#   en: English text
+#   nl: Nederlandse tekst
+
+- name: Patrick
+  avatar: /assets/images/avatar.svg
+  bio:
+    default: Exploring local cities, scenic drives, and practical family travel routes.
+    en: Exploring local cities, scenic drives, and practical family travel routes.
+    nl: Lokale stedentrips, mooie autoroutes en praktische familievakanties.
+  location:
+    default: The Netherlands
+    en: The Netherlands
+    nl: Nederland
+  page_url: /author-patrick/
+  social_links:
+    - platform: github
+      url: https://github.com/
+    - platform: instagram
+      url: https://www.instagram.com/
+
+- name: Mara Velin
+  avatar: /assets/images/avatar.svg
+  bio: Slow itineraries focused on local food, markets, and cultural neighborhoods.
+  location: Europe
+
+- name: Elin Rohe
+  avatar: /assets/images/avatar.svg
+  bio: Nature-first trips, mountain escapes, and relaxed road journeys.
+  location: Scandinavia
+
+- name: Jonas Kade
+  avatar: /assets/images/avatar.svg
+  bio: Rail routes, city weekends, and practical no-fuss travel planning.
+  location: Central Europe
+
+- name: Nora Vale
+  avatar: /assets/images/avatar.svg
+  bio: Coastal days, village stays, and short breaks with a local feel.
+  location: Southern Europe
+
+- name: مارا فيلين
+  avatar: /assets/images/avatar.svg
+  bio: خطط سفر هادئة تركز على الثقافة والمطبخ المحلي.
+  location: أوروبا
