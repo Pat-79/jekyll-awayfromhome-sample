@@ -154,21 +154,21 @@ defaults:
   - scope: { path: "_posts/ar", type: "posts" }
     values:
       lang: ar
-      permalink: "/ar/blog/:slug/"
+      permalink: "/ar/blog/:year-:month-:day_:title/"
   - scope: { path: "theme/nl" }
     values:
       lang: nl
   - scope: { path: "_posts/nl", type: "posts" }
     values:
       lang: nl
-      permalink: "/nl/blog/:slug/"
+      permalink: "/nl/blog/:year-:month-:day_:title/"
   - scope: { path: "theme/de" }
     values:
       lang: de
   - scope: { path: "_posts/de", type: "posts" }
     values:
       lang: de
-      permalink: "/de/blog/:slug/"
+      permalink: "/de/blog/:year-:month-:day_:title/"
 
 # ── Feed settings ─────────────────────────────────────────────────────────────
 feed:
