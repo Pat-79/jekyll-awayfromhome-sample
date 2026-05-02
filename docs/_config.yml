@@ -65,31 +65,31 @@ home_landing:
 #   disclaimer: "X This is a sample page for the Away From Home theme. All content is for demonstration purposes only."
 #   copyright: "<a href=\"https://github.com/Pat-79\" target=\"_blank\">Pat-79</a>. All rights reserved."
 
-# ── Author information ─────────────────────────────────────────────────────────
-author:
-  name: Patrick
-  avatar: /assets/images/avatar.svg
-  bio: Slow travel notes, practical route ideas, and visual field journals from the road.
-  location: Based in the Netherlands, usually somewhere else.
-
-# ── Authors directory (used by author-card lookup) ─────────────────────────────
-authors:
-  - name: Elin Rohe
-    avatar: /assets/images/avatar-elin-rohe.svg
-    bio: Train routes, mountain towns, and slow mornings in cold climates. Writes about pace over distance.
-    location: Based in Halvorn, Thaloria, often further north.
-  - name: Jonas Kade
-    avatar: /assets/images/avatar-jonas-kade.svg
-    bio: Desert roads, canyon hikes, and camp-site cooking under open skies. Prefers roads with no signal.
-    location: Based in Harrow Point, Varneth Republic.
-  - name: Mara Velin
-    avatar: /assets/images/avatar-mara-velin.svg
-    bio: Island ports, cliff roads, and the kind of food you remember years later. Covers coastal and island travel.
-    location: Based in Port Celen, Orindar, always near the sea when she can be.
-  - name: Nora Vale
-    avatar: /assets/images/avatar-nora-vale.svg
-    bio: City walks, museum afternoons, and train schedules that actually work. Writes about urban and cultural travel.
-    location: Based in Velis, Novaryn, comfortable in any transit hub.
+## ── Author information ─────────────────────────────────────────────────────────
+#author:
+#  name: Patrick
+#  avatar: /assets/images/avatar.svg
+#  bio: Slow travel notes, practical route ideas, and visual field journals from the road.
+#  location: Based in the Netherlands, usually somewhere else.
+#
+## ── Authors directory (used by author-card lookup) ─────────────────────────────
+#authors:
+#  - name: Elin Rohe
+#    avatar: /assets/images/avatar-elin-rohe.svg
+#    bio: Train routes, mountain towns, and slow mornings in cold climates. Writes about pace over distance.
+#    location: Based in Halvorn, Thaloria, often further north.
+#  - name: Jonas Kade
+#    avatar: /assets/images/avatar-jonas-kade.svg
+#    bio: Desert roads, canyon hikes, and camp-site cooking under open skies. Prefers roads with no signal.
+#    location: Based in Harrow Point, Varneth Republic.
+#  - name: Mara Velin
+#    avatar: /assets/images/avatar-mara-velin.svg
+#    bio: Island ports, cliff roads, and the kind of food you remember years later. Covers coastal and island travel.
+#    location: Based in Port Celen, Orindar, always near the sea when she can be.
+#  - name: Nora Vale
+#    avatar: /assets/images/avatar-nora-vale.svg
+#    bio: City walks, museum afternoons, and train schedules that actually work. Writes about urban and cultural travel.
+#    location: Based in Velis, Novaryn, comfortable in any transit hub.
 
 map_widget:
   tile_url: https://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}
@@ -182,21 +182,21 @@ defaults:
   - scope: { path: "" }
     values:
       lang: en
-  - scope: { path: "ar" }
+  - scope: { path: "theme/ar" }
     values:
       lang: ar
   - scope: { path: "_posts/ar", type: "posts" }
     values:
       lang: ar
       permalink: "/ar/blog/:slug/"
-  - scope: { path: "nl" }
+  - scope: { path: "theme/nl" }
     values:
       lang: nl
   - scope: { path: "_posts/nl", type: "posts" }
     values:
       lang: nl
       permalink: "/nl/blog/:slug/"
-  - scope: { path: "de" }
+  - scope: { path: "theme/de" }
     values:
       lang: de
   - scope: { path: "_posts/de", type: "posts" }
