@@ -1,7 +1,7 @@
 # ── Site identity ──────────────────────────────────────────────────────────────
 title: Away From Home Sample
 description: your getaway at home sample page
-url: "https:/demo.awayfromhome.nl"
+url: "https://demo.awayfromhome.nl"
 #baseurl: "/jekyll-awayfromhome-sample"
 permalink: /blog/:year-:month-:day_:title/
 email: noreply@awayfromhome.nl
@@ -22,23 +22,23 @@ navigation:
   - title: Home
     key: home
     url: /
-    url_ar: /ar/
+    #url_ar: /ar/
   - title: About
     key: about
     url: /about/
-    url_ar: /ar/about/
+    #url_ar: /ar/about/
   - title: Blogs
     key: blog
     url: /blog/
-    url_ar: /ar/blog/
+    #url_ar: /ar/blog/
   - title: Browse
     key: browse
     url: /browse/
-    url_ar: /ar/browse/
+    #url_ar: /ar/browse/
   - title: Search
     key: search
     url: /search/
-    url_ar: /ar/search/
+    #url_ar: /ar/search/
 
 # ── Social links ───────────────────────────────────────────────────────────────
 social_links:
@@ -61,9 +61,9 @@ home_landing:
   #hls_url: https://pat-79.github.io/assets/streams/sample/sample_stream.m3u8
   hls_url: /assets/streams/sample/sample_stream.m3u8
 
-footer:
-  disclaimer: "This is a sample page for the Away From Home theme. All content is for demonstration purposes only."
-  copyright: "<a href=\"https://github.com/Pat-79\" target=\"_blank\">Pat-79</a>. All rights reserved."
+# footer:
+#   disclaimer: "X This is a sample page for the Away From Home theme. All content is for demonstration purposes only."
+#   copyright: "<a href=\"https://github.com/Pat-79\" target=\"_blank\">Pat-79</a>. All rights reserved."
 
 # ── Author information ─────────────────────────────────────────────────────────
 author:
