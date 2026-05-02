@@ -2,7 +2,6 @@
 title: Away From Home Sample
 description: your getaway at home sample page
 url: "https://demo.awayfromhome.nl"
-#baseurl: "/jekyll-awayfromhome-sample"
 permalink: /blog/:year-:month-:day_:title/
 email: noreply@awayfromhome.nl
 
@@ -22,23 +21,18 @@ navigation:
   - title: Home
     key: home
     url: /
-    #url_ar: /ar/
   - title: About
     key: about
     url: /about/
-    #url_ar: /ar/about/
   - title: Blogs
     key: blog
     url: /blog/
-    #url_ar: /ar/blog/
   - title: Browse
     key: browse
     url: /browse/
-    #url_ar: /ar/browse/
   - title: Search
     key: search
     url: /search/
-    #url_ar: /ar/search/
 
 # ── Social links ───────────────────────────────────────────────────────────────
 social_links:
@@ -61,36 +55,7 @@ home_landing:
   #hls_url: https://pat-79.github.io/assets/streams/sample/sample_stream.m3u8
   hls_url: /assets/streams/sample/sample_stream.m3u8
 
-# footer:
-#   disclaimer: "X This is a sample page for the Away From Home theme. All content is for demonstration purposes only."
-#   copyright: "<a href=\"https://github.com/Pat-79\" target=\"_blank\">Pat-79</a>. All rights reserved."
-
-## ── Author information ─────────────────────────────────────────────────────────
-#author:
-#  name: Patrick
-#  avatar: /assets/images/avatar.svg
-#  bio: Slow travel notes, practical route ideas, and visual field journals from the road.
-#  location: Based in the Netherlands, usually somewhere else.
-#
-## ── Authors directory (used by author-card lookup) ─────────────────────────────
-#authors:
-#  - name: Elin Rohe
-#    avatar: /assets/images/avatar-elin-rohe.svg
-#    bio: Train routes, mountain towns, and slow mornings in cold climates. Writes about pace over distance.
-#    location: Based in Halvorn, Thaloria, often further north.
-#  - name: Jonas Kade
-#    avatar: /assets/images/avatar-jonas-kade.svg
-#    bio: Desert roads, canyon hikes, and camp-site cooking under open skies. Prefers roads with no signal.
-#    location: Based in Harrow Point, Varneth Republic.
-#  - name: Mara Velin
-#    avatar: /assets/images/avatar-mara-velin.svg
-#    bio: Island ports, cliff roads, and the kind of food you remember years later. Covers coastal and island travel.
-#    location: Based in Port Celen, Orindar, always near the sea when she can be.
-#  - name: Nora Vale
-#    avatar: /assets/images/avatar-nora-vale.svg
-#    bio: City walks, museum afternoons, and train schedules that actually work. Writes about urban and cultural travel.
-#    location: Based in Velis, Novaryn, comfortable in any transit hub.
-
+# ── Widgets ───────────────────────────────────────────────────────────────────
 map_widget:
   tile_url: https://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}
   #tile_url: https://{s}.openstreetmap.org/{z}/{x}/{y}.png
@@ -132,7 +97,8 @@ gallery_widget:
   max_height:
   show_image_caption: false
   show_image_description: false
-  
+
+# ── Sidebar ───────────────────────────────────────────────────────────────────
 sidebar:
   archive:
     enabled: true
@@ -141,7 +107,7 @@ sidebar:
     mode: year-month-tree
     show_post_counts: true
 
-
+# ── Multilingual settings ─────────────────────────────────────────────────────
 # Multilingual settings
 lang: en   # default site language
 
@@ -203,3 +169,7 @@ defaults:
     values:
       lang: de
       permalink: "/de/blog/:slug/"
+
+# ── Feed settings ─────────────────────────────────────────────────────────────
+feed:
+  posts_limit: 50
