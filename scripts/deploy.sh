@@ -33,7 +33,7 @@ deploy_site() {
     git -C "$worktree_dir" rm -rf . >/dev/null 2>&1 || true
   fi
 
-  rsync -a --delete "$SITE_DIR/" "$worktree_dir/"
+  rsync -a --delete --exclude='.git' "$SITE_DIR/" "$worktree_dir/"
   touch "$worktree_dir/.nojekyll"
 
   if [[ -f "$DOCS_DIR/CNAME" ]]; then
