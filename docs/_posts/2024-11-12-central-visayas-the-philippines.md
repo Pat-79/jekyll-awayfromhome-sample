@@ -1,11 +1,27 @@
 ---
-title: Exploring Central Visayas, the Philippines 🇵🇭
 author: Patrick
+categories:
+- vacation
 date: 2024-11-12 12:15:00 -0500
-categories: [vacation]
-tags: [asia,island,mountain,philippines,relaxing,sea,summer,tropical,vacation]
+excerpt: It’s been a while since I’ve been traveling, so this time I took my sweet
+  time from my daily office job, and boarded a plane to the east… towards the region
+  known as Central Visayas in the Philippines. This area in the middle of the archipelago,
+  consists out of several provinces. Some big, some small. The most known provinces
+  are without doubt Cebu and Bohol, but provinces like Negros and the tiny Siquijor
+  also are part of this area.
 image: /assets/images/posts/2024-11-12-central-visayas-the-philippines/WhatsApp-Image-2024-11-12-at-22.35.40-3-1024x578.jpeg
-excerpt: "It’s been a while since I’ve been traveling, so this time I took my sweet time from my daily office job, and boarded a plane to the east… towards the region known as Central Visayas in the Philippines. This area in the middle of the archipelago, consists out of several provinces. Some big, some small. The most known provinces are without doubt Cebu and Bohol, but provinces like Negros and the tiny Siquijor also are part of this area."
+lang: en
+ref: central-visayas-the-philippines
+tags:
+- asia
+- island-hopping
+- mountains
+- philippines
+- relaxing
+- sea
+- summer
+- tropical
+title: "Exploring Central Visayas, the Philippines \U0001F1F5\U0001F1ED"
 ---
 
 It’s been a while since I’ve been traveling, so this time I took my sweet time from my daily office job, and boarded a plane to the east… towards the region known as Central Visayas in the Philippines. This area in the middle of the archipelago, consists out of several provinces. Some big, some small. The most known provinces are without doubt Cebu and Bohol, but provinces like Negros and the tiny Siquijor also are part of this area.

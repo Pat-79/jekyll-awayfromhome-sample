@@ -1,13 +1,27 @@
 ---
-layout: post
-title: "A Cultural Tour of Novaryn"
-excerpt: "Novaryn is one of those countries where every district feels like a chapter in a larger story. I planned this as a touring holiday across museums, fort towns, and regional food halls, starting in Velis and ending in the river city of Atra. The country is compact enough for overland travel, but diverse enough to keep each day fresh."
-date: 2023-11-05 10:05:00 +0200
 author: Jonas Kade
-categories: [touring, novaryn, culture-trip]
-tags: [culture, museums, architecture, local-crafts]
+categories:
+- touring
+- novaryn
+- culture-trip
+date: 2023-11-05 10:05:00 +0200
+excerpt: Novaryn is one of those countries where every district feels like a chapter
+  in a larger story. I planned this as a touring holiday across museums, fort towns,
+  and regional food halls, starting in Velis and ending in the river city of Atra.
+  The country is compact enough for overland travel, but diverse enough to keep each
+  day fresh.
 image: /assets/images/posts/2023-novaryn-header.jpg
+lang: en
+layout: post
+ref: cultural-tour-of-novaryn
+tags:
+- culture
+- museums
+- architecture
+- local-crafts
+title: A Cultural Tour of Novaryn
 ---
+
 <p class="ai-disclaimer"><strong>AI Demo Disclaimer:</strong> This post is fictive AI-generated content. It is meant as demonstration for the  AwayFromHome theme. All images are fake,</p>
 
 Novaryn is one of those countries where every district feels like a chapter in a larger story. I planned this as a touring holiday across museums, fort towns, and regional food halls, starting in Velis and ending in the river city of Atra. The country is compact enough for overland travel, but diverse enough to keep each day fresh.
@@ -34,4 +48,4 @@ What stood out most was how Novaryn celebrates regional identity. In the east, t
 
 In Atra, I joined a short weaving workshop inside the river market hall. We learned to dye thread with berry skin and iron-water solution, then practiced a simple two-color pattern used in Novaryni travel scarves. I left with uneven edges and stained fingers, but also with a much deeper appreciation for how local craft survives through daily practice.
 
-![Activity photo: weaving workshop in Atra market hall](/assets/images/posts/2023-novaryn-activity.jpg)
+{% include gallery-widget.html dir="/assets/images/posts/2023-novaryn-activity.webp" description="Activity photo: weaving workshop in Atra market hall" %}

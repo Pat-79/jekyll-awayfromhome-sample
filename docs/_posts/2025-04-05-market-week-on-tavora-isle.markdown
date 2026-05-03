@@ -1,13 +1,27 @@
 ---
-layout: post
-title: "Market Week on Tavora Isle"
-excerpt: "Tavora Isle belongs to the fictive island federation of Lumera and is known for colorful harbor streets and weekly market days. I visited during spring when trade boats arrive daily and the town center feels especially lively. This is a great destination for travelers who like culture and sea activities in one compact setting."
-date: 2025-04-05 11:15:00 +0200
 author: Nora Vale
-categories: [island-trip, culture-tour, sea-vacation]
-tags: [island-hopping, food-markets, snorkeling, coastal]
+categories:
+- island-trip
+- culture-tour
+- sea-vacation
+date: 2025-04-05 11:15:00 +0200
+excerpt: Tavora Isle belongs to the fictive island federation of Lumera and is known
+  for colorful harbor streets and weekly market days. I visited during spring when
+  trade boats arrive daily and the town center feels especially lively. This is a
+  great destination for travelers who like culture and sea activities in one compact
+  setting.
 image: /assets/images/posts/2025-04-05-market-week-on-tavora-isle/2025-tavora-header.jpg
+lang: en
+layout: post
+ref: market-week-on-tavora-isle
+tags:
+- island-hopping
+- food-markets
+- snorkeling
+- coastal
+title: Market Week on Tavora Isle
 ---
+
 <p class="ai-disclaimer"><strong>AI Demo Disclaimer:</strong> This post is fictive AI-generated content. It is meant as demonstration for the  AwayFromHome theme. All images are fake,</p>
 
 Tavora Isle belongs to the fictive island federation of Lumera and is known for colorful harbor streets and weekly market days. I visited during spring when trade boats arrive daily and the town center feels especially lively. This is a great destination for travelers who like culture and sea activities in one compact setting.

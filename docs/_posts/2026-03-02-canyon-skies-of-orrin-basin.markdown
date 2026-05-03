@@ -1,13 +1,26 @@
 ---
-layout: post
-title: "Canyon Skies of Orrin Basin"
-excerpt: "Orrin Basin is a fictive canyon region in the inland state of Merovar, where open desert roads connect layered cliffs and remote camp zones. I planned this trip as an adventure tour with daylight hiking and evening sky sessions. The region feels large and quiet, with long horizons in every direction."
-date: 2026-03-02 08:00:00 +0200
 author: Elin Rohe
-categories: [adventure-trip, canyon-region, touring]
-tags: [roadtrip, desert, hiking, stargazing]
+categories:
+- adventure-trip
+- canyon-region
+- touring
+date: 2026-03-02 08:00:00 +0200
+excerpt: Orrin Basin is a fictive canyon region in the inland state of Merovar, where
+  open desert roads connect layered cliffs and remote camp zones. I planned this trip
+  as an adventure tour with daylight hiking and evening sky sessions. The region feels
+  large and quiet, with long horizons in every direction.
 image: /assets/images/posts/2026-03-02-canyon-skies-of-orrin-basin/2026-orrin-header.jpg
+lang: en
+layout: post
+ref: canyon-skies-of-orrin-basin
+tags:
+- roadtrip
+- desert
+- hiking
+- stargazing
+title: Canyon Skies of Orrin Basin
 ---
+
 <p class="ai-disclaimer"><strong>AI Demo Disclaimer:</strong> This post is fictive AI-generated content. It is meant as demonstration for the  AwayFromHome theme. All images are fake,</p>
 
 Orrin Basin is a fictive canyon region in the inland state of Merovar, where open desert roads connect layered cliffs and remote camp zones. I planned this trip as an adventure tour with daylight hiking and evening sky sessions. The region feels large and quiet, with long horizons in every direction.

@@ -1,13 +1,26 @@
 ---
-layout: post
-title: "Touring the Velsora Continent by Rail"
-excerpt: "I spent twelve days crossing the Velsora Continent by train, starting in the southern city of Rhen and ending in Northmark on the edge of the Glassea Coast. This was a touring vacation built around movement itself: wide observation windows, station cafés, and dramatic shifts in architecture between regions."
-date: 2025-02-09 08:15:00 +0200
 author: Jonas Kade
-categories: [touring, rail-travel, continental-trip]
-tags: [rail-travel, mountains, architecture, coastal]
+categories:
+- touring
+- rail-travel
+- continental-trip
+date: 2025-02-09 08:15:00 +0200
+excerpt: 'I spent twelve days crossing the Velsora Continent by train, starting in
+  the southern city of Rhen and ending in Northmark on the edge of the Glassea Coast.
+  This was a touring vacation built around movement itself: wide observation windows,
+  station cafés, and dramatic shifts in architecture between regions.'
 image: /assets/images/posts/2025-velsora-header.jpg
+lang: en
+layout: post
+ref: train-touring-across-velsora
+tags:
+- rail-travel
+- mountains
+- architecture
+- coastal
+title: Touring the Velsora Continent by Rail
 ---
+
 <p class="ai-disclaimer"><strong>AI Demo Disclaimer:</strong> This post is fictive AI-generated content. It is meant as demonstration for the  AwayFromHome theme. All images are fake,</p>
 
 I spent twelve days crossing the Velsora Continent by train, starting in the southern city of Rhen and ending in Northmark on the edge of the Glassea Coast. This was a touring vacation built around movement itself: wide observation windows, station cafés, and dramatic shifts in architecture between regions.
@@ -39,4 +52,4 @@ Velsora is politically divided into several partner states, but rail infrastruct
 
 I set myself a small challenge: one meaningful photo at every major station between Rhen and Northmark. Instead of generic skyline shots, I focused on details such as old clocks, handwritten departure boards, and platform mosaics. That turned ordinary waits into mini explorations and made the whole train journey feel intentionally paced.
 
-![Activity photo: photo challenge at a Velsora rail station](/assets/images/posts/2025-velsora-activity.jpg)
+{% include gallery-widget.html dir="/assets/images/posts/2025-velsora-activity.webp" description="Activity photo: photo challenge at a Velsora rail station" %}

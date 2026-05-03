@@ -1,13 +1,27 @@
 ---
-layout: post
-title: "Family City Trip to Meridia Prime"
-excerpt: "Meridia Prime is the capital of Solmere, a compact country on the silver delta where the Rovan River meets the Irien Sea. We picked it for a family city trip because distances are short, transit is reliable, and public parks are everywhere. In four days we visited museums, waterways, and a science district without ever feeling rushed."
-date: 2025-10-17 09:05:00 +0200
 author: Elin Rohe
-categories: [city-trip, family-travel, solmere]
-tags: [family-travel, city-break, museums, coastal]
+categories:
+- city-trip
+- family-travel
+- solmere
+date: 2025-10-17 09:05:00 +0200
+excerpt: Meridia Prime is the capital of Solmere, a compact country on the silver
+  delta where the Rovan River meets the Irien Sea. We picked it for a family city
+  trip because distances are short, transit is reliable, and public parks are everywhere.
+  In four days we visited museums, waterways, and a science district without ever
+  feeling rushed.
 image: /assets/images/posts/2025-10-17-family-city-trip-to-meridia/2025-meridia-header.jpg
+lang: en
+layout: post
+ref: family-city-trip-to-meridia
+tags:
+- family-travel
+- city-break
+- museums
+- coastal
+title: Family City Trip to Meridia Prime
 ---
+
 <p class="ai-disclaimer"><strong>AI Demo Disclaimer:</strong> This post is fictive AI-generated content. It is meant as demonstration for the  AwayFromHome theme. All images are fake,</p>
 
 Meridia Prime is the capital of Solmere, a compact country on the silver delta where the Rovan River meets the Irien Sea. We picked it for a family city trip because distances are short, transit is reliable, and public parks are everywhere. In four days we visited museums, waterways, and a science district without ever feeling rushed.

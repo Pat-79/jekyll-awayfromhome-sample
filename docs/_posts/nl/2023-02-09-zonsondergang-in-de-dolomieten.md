@@ -1,14 +1,28 @@
 ---
-layout: post
-lang: nl
-ref: sunset-in-the-dolomites
-title: Zonsondergang in de Dolomieten 🇮🇹 
-excerpt: "De Dolomieten zijn een van de mooiste gebieden van de Alpen in Europa. Ze liggen (meestal) in Noord-Oost Italië, in de provincies Zuid-Tirol, Trentino en Veneto en maken tegenwoordig deel uit van de UNESCO Werelderfgoedlijst. De Dolomieten hebben veel rotsuitsluiting tot een hoogte van 3343 meter en staan bekend om hun adembenemende uitzichten van de toppen en prachtige valleien. Wat beter dan een skiedag in december afsluiten op een heuvel met uitzicht op de prachtige Fassa-vallei, samen met een prachtige zonneschijn en muziek op de achtergrond!"
-date: 2023-02-09 19:15:00 +0200
 author: Patrick
-categories: [wintersport]
-tags: [alps,dolomites,europa,italië,mountain,relaxing,snow,vacation,winter]
+categories:
+- wintersport
+date: 2023-02-09 19:15:00 +0200
+excerpt: De Dolomieten zijn een van de mooiste gebieden van de Alpen in Europa. Ze
+  liggen (meestal) in Noord-Oost Italië, in de provincies Zuid-Tirol, Trentino en
+  Veneto en maken tegenwoordig deel uit van de UNESCO Werelderfgoedlijst. De Dolomieten
+  hebben veel rotsuitsluiting tot een hoogte van 3343 meter en staan bekend om hun
+  adembenemende uitzichten van de toppen en prachtige valleien. Wat beter dan een
+  skiedag in december afsluiten op een heuvel met uitzicht op de prachtige Fassa-vallei,
+  samen met een prachtige zonneschijn en muziek op de achtergrond!
 image: /assets/images/posts/2023-12-18-sunset-in-the-dolomites/5_saslong.jpg
+lang: nl
+layout: post
+ref: sunset-in-the-dolomites
+tags:
+- alps
+- dolomites
+- europe
+- italy
+- mountains
+- relaxing
+- snow
+title: "Zonsondergang in de Dolomieten \U0001F1EE\U0001F1F9"
 ---
 
 De Dolomieten zijn een van de mooiste gebieden van de Alpen in Europa. Ze liggen (meestal) in Noord-Oost Italië, in de provincies Zuid-Tirol, Trentino en Veneto en maken tegenwoordig deel uit van de UNESCO Werelderfgoedlijst.

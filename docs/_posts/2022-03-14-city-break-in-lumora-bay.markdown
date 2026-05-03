@@ -1,13 +1,27 @@
 ---
-layout: post
-title: "Three Nights in Lumora Bay"
-excerpt: "Lumora Bay is the capital-port of Bayland, a compact country on the western edge of the Auric Continent. It feels like a city trip designed for people who love detail: tiled stairways, tiny bookstores, and night markets where every table glows with amber lanterns. I came for a short city break, but the place made me slow down after the first morning."
-date: 2022-03-14 09:15:00 +0200
 author: Mara Velin
-categories: [city-trip, bayland, short-stay]
-tags: [city-break, old-town, food-markets, coastal]
+categories:
+- city-trip
+- bayland
+- short-stay
+date: 2022-03-14 09:15:00 +0200
+excerpt: 'Lumora Bay is the capital-port of Bayland, a compact country on the western
+  edge of the Auric Continent. It feels like a city trip designed for people who love
+  detail: tiled stairways, tiny bookstores, and night markets where every table glows
+  with amber lanterns. I came for a short city break, but the place made me slow down
+  after the first morning.'
 image: /assets/images/posts/2022-lumora-header.jpg
+lang: en
+layout: post
+ref: city-break-in-lumora-bay
+tags:
+- city-break
+- old-town
+- food-markets
+- coastal
+title: Three Nights in Lumora Bay
 ---
+
 <p class="ai-disclaimer"><strong>AI Demo Disclaimer:</strong> This post is fictive AI-generated content. It is meant as demonstration for the  AwayFromHome theme. All images are fake,</p>
 
 Lumora Bay is the capital-port of Bayland, a compact country on the western edge of the Auric Continent. It feels like a city trip designed for people who love detail: tiled stairways, tiny bookstores, and night markets where every table glows with amber lanterns. I came for a short city break, but the place made me slow down after the first morning.
@@ -34,4 +48,4 @@ Bayland has a reputation for careful urban planning. Old neighborhoods in Lumora
 
 I joined a rooftop cooking class in the old quay district and learned to make smoked citrus rice with sea-herb oil, a classic Bayland comfort meal. The chef explained how local traders once combined mountain herbs from Norveil Ridge with shellfish from Maren Inlet, and that story turned dinner into a history lesson. Cooking with six other travelers also made the city feel less anonymous.
 
-![Activity photo: rooftop cooking class in Lumora Bay](/assets/images/posts/2022-lumora-activity.jpg)
+{% include gallery-widget.html dir="/assets/images/posts/2022-lumora-activity.webp" description="Activity photo: rooftop cooking class in Lumora Bay" %}

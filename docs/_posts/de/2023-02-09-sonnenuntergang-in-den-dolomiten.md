@@ -1,14 +1,28 @@
 ---
-layout: post
-lang: de
-ref: sunset-in-the-dolomites
-title: Sonnenuntergang in den Dolomiten 🇮🇹 
-excerpt: "Die Dolomiten sind eine der schönsten Gegenden der Alpen in Europa. Sie liegen (hauptsächlich) in Nordostitalien, in den Provinzen Südtirol, Trentino und Venetien und sind heute Teil der UNESCO-Weltkulturerbestätte. Die Dolomiten haben viele raue Gipfel bis zu einer Höhe von 3343 Metern und sind für ihre atemberaubenden Ausblicke von den Gipfeln und schönen Tälern bekannt. Was gibt es Besseres, als einen Tag Skifahren im Dezember auf einem Hügel mit Blick auf das schöne Fassatal abzuschließen, zusammen mit wunderschönem Sonnenschein und Musik im Hintergrund!"
-date: 2023-02-09 19:15:00 +0200
 author: Patrick
-categories: [wintersport]
-tags: [alpen,dolomiten,europa,italien,mountain,relaxing,schnee,urlaub,winter]
+categories:
+- wintersport
+date: 2023-02-09 19:15:00 +0200
+excerpt: Die Dolomiten sind eine der schönsten Gegenden der Alpen in Europa. Sie liegen
+  (hauptsächlich) in Nordostitalien, in den Provinzen Südtirol, Trentino und Venetien
+  und sind heute Teil der UNESCO-Weltkulturerbestätte. Die Dolomiten haben viele raue
+  Gipfel bis zu einer Höhe von 3343 Metern und sind für ihre atemberaubenden Ausblicke
+  von den Gipfeln und schönen Tälern bekannt. Was gibt es Besseres, als einen Tag
+  Skifahren im Dezember auf einem Hügel mit Blick auf das schöne Fassatal abzuschließen,
+  zusammen mit wunderschönem Sonnenschein und Musik im Hintergrund!
 image: /assets/images/posts/2023-12-18-sunset-in-the-dolomites/5_saslong.jpg
+lang: de
+layout: post
+ref: sunset-in-the-dolomites
+tags:
+- alps
+- dolomites
+- europe
+- italy
+- mountains
+- relaxing
+- snow
+title: "Sonnenuntergang in den Dolomiten \U0001F1EE\U0001F1F9"
 ---
 
 Die Dolomiten sind eine der schönsten Gegenden der Alpen in Europa. Sie liegen (hauptsächlich) in Nordostitalien, in den Provinzen Südtirol, Trentino und Venetien und sind heute Teil der UNESCO-Weltkulturerbestätte.
