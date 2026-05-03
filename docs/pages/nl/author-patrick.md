@@ -1,5 +1,6 @@
 ---
 layout: page
+lang: nl
 ref: page-author-patrick
 title: Patrick
 permalink: /nl/author/patrick/
