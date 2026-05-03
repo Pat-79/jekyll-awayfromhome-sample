@@ -21,7 +21,7 @@ ui:
   continue_reading: Weiterlesen
   written_by: Geschrieben von
   by: "von"
-  on: "am"
+  "on": "am"
   in: "in"
   previous: Vorherige
   next: Nächste

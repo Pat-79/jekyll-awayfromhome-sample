@@ -21,7 +21,7 @@ ui:
   continue_reading: Continue Reading
   written_by: Written By
   by: "by"
-  on: "on"
+  "on": "on"
   in: "in"
   previous: Previous
   next: Next

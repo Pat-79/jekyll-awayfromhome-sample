@@ -21,7 +21,7 @@ ui:
   continue_reading: تابع القراءة
   written_by: كتبه
   by: "بقلم"
-  on: "في"
+  "on": "في"
   in: "في"
   previous: السابق
   next: التالي
