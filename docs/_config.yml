@@ -144,7 +144,8 @@ defaults:
   - scope: { path: "", type: "posts" }
     values:
       lang: en
-      permalink: "/blog/:year-:month-:day_:title/"
+      #permalink: "/blog/:year-:month-:day_:title/"
+      permalink: "/:slug/"
   - scope: { path: "" }
     values:
       lang: en
@@ -154,21 +155,24 @@ defaults:
   - scope: { path: "_posts/ar", type: "posts" }
     values:
       lang: ar
-      permalink: "/ar/blog/:year-:month-:day_:title/"
+      #permalink: "/ar/blog/:year-:month-:day_:title/"
+      permalink: "/ar/:slug/"
   - scope: { path: "theme/nl" }
     values:
       lang: nl
   - scope: { path: "_posts/nl", type: "posts" }
     values:
       lang: nl
-      permalink: "/nl/blog/:year-:month-:day_:title/"
+      #permalink: "/nl/blog/:year-:month-:day_:title/"
+      permalink: "/nl/:slug/"
   - scope: { path: "theme/de" }
     values:
       lang: de
   - scope: { path: "_posts/de", type: "posts" }
     values:
       lang: de
-      permalink: "/de/blog/:year-:month-:day_:title/"
+      #permalink: "/de/blog/:year-:month-:day_:title/"
+      permalink: "/de/:slug/"
 
 # ── Feed settings ─────────────────────────────────────────────────────────────
 feed:
