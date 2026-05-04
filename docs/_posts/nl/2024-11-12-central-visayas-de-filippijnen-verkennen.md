@@ -57,5 +57,5 @@ Een ander beroemd Bohol-wezen is de kleine Tarsier. Spookdiertjes zijn te vinden
 ## Foto's
 
 {% include gallery-widget.html
-src="/assets/images/posts/2024-11-12-central-visayas-the-philippines/"
+	src="/assets/images/posts/2024-11-12-central-visayas-the-philippines/" mode="carousel"
 %}

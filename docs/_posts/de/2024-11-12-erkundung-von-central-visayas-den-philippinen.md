@@ -57,5 +57,5 @@ Eine weitere berühmte Bohol-Kreatur ist der kleine Koboldmaki. Kobolde gibt es 
 ## Fotos
 
 {% include gallery-widget.html
-src="/assets/images/posts/2024-11-12-central-visayas-the-philippines/"
+	src="/assets/images/posts/2024-11-12-central-visayas-the-philippines/" mode="carousel"
 %}
