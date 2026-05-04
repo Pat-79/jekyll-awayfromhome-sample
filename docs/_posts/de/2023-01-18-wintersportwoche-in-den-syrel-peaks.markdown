@@ -48,6 +48,6 @@ Thaloria ist für seine strenge Sicherheitskultur in den Bergen bekannt. Lawinen
 
 Meine erste Snowboardstunde absolvierte ich auf einem sanften Übungshang im Kiro Pass. Der Ausbilder brachte uns bei, wie man sicher fällt, bevor er Wendungen beibrachte, und das machte einen großen Unterschied in unserem Selbstvertrauen. Am späten Nachmittag konnte ich kurze Kurven verbinden und ohne Panik absteigen, was sich wie ein persönlicher Durchbruch an einer Stelle anfühlte, die zunächst einschüchternd wirkte.
 
-{% include gallery-widget.html dir="/assets/images/posts/2023-syrelpeaks-activity.webp" description="Aktivitätsfoto: Snowboardunterricht am Kiro Pass" %}
+{% include gallery-widget.html src="/assets/images/posts/2023-syrelpeaks-activity.webp" description="Aktivitätsfoto: Snowboardunterricht am Kiro Pass" %}
 
 <p class="ai-image-disclaimer">Haftungsausschluss für Bilder: Dieses Aktivitätsfoto wurde für den Demogebrauch KI-generiert.</p>

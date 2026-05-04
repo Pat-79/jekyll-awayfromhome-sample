@@ -11,7 +11,7 @@ excerpt: Meridia Prime ist die Hauptstadt von Solmere, einem kompakten Land am S
   zuverlässig sind und es überall öffentliche Parks gibt. In vier Tagen besuchten
   wir Museen, Wasserstraßen und ein Wissenschaftsviertel, ohne uns jemals gehetzt
   zu fühlen.
-image: /assets/images/posts/2025-10-17-family-city-trip-to-meridia/2025-meridia-header.jpg
+image: /assets/images/posts/2025-10-17-family-city-trip-to-meridia/2025-meridia-header.webp
 lang: de
 layout: post
 ref: family-city-trip-to-meridia
@@ -50,5 +50,5 @@ Solmere ist stolz auf praktisches Design. Der alte Kern von Meridia ist größte
 Vor dem Frühstück mietete ich mir ein Citybike und fuhr die innere Schleife des Crescent Parks entlang, während die Parkcafés öffneten. Familien machten leichte Übungen und Wartungsteams bewässerten Blumenterrassen, bevor die Hitze kam. Es war ein ruhiger Start, der zeigte, wie lebenswert Meridia abseits seiner touristischen Highlights ist.
 
 {% include gallery-widget.html
-dir="/assets/images/posts/2025-10-17-family-city-trip-to-meridia/"
+src="/assets/images/posts/2025-10-17-family-city-trip-to-meridia/"
 %}

@@ -10,7 +10,7 @@ excerpt: Novaryn is een van die landen waar elk district aanvoelt als een hoofds
   regionale eetzalen, beginnend in Velis en eindigend in de rivierstad Atra. Het land
   is compact genoeg voor reizen over land, maar divers genoeg om elke dag fris te
   blijven.
-image: /assets/images/posts/2023-novaryn-header.jpg
+image: /assets/images/posts/2023-novaryn-header.webp
 lang: nl
 layout: post
 ref: cultural-tour-of-novaryn
@@ -48,4 +48,4 @@ Wat het meest opviel was hoe Novaryn de regionale identiteit viert. In het ooste
 
 In Atra nam ik deel aan een korte weefworkshop in de riviermarkthal. We leerden draad verven met bessenhuid en ijzer-wateroplossing en oefenden vervolgens een eenvoudig tweekleurenpatroon dat wordt gebruikt in Novaryni-reissjaals. Ik vertrok met ongelijke randen en bevlekte vingers, maar ook met een veel diepere waardering voor hoe lokaal ambacht overleeft door de dagelijkse praktijk.
 
-{% include gallery-widget.html dir="/assets/images/posts/2023-novaryn-activity.webp" description="Activiteitenfoto: weefatelier in markthal Atra" %}
+{% include gallery-widget.html src="/assets/images/posts/2023-novaryn-activity.webp" description="Activiteitenfoto: weefatelier in markthal Atra" %}

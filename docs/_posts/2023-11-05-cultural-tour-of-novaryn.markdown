@@ -10,7 +10,7 @@ excerpt: Novaryn is one of those countries where every district feels like a cha
   and regional food halls, starting in Velis and ending in the river city of Atra.
   The country is compact enough for overland travel, but diverse enough to keep each
   day fresh.
-image: /assets/images/posts/2023-novaryn-header.jpg
+image: /assets/images/posts/2023-novaryn-header.webp
 lang: en
 layout: post
 ref: cultural-tour-of-novaryn
@@ -48,4 +48,4 @@ What stood out most was how Novaryn celebrates regional identity. In the east, t
 
 In Atra, I joined a short weaving workshop inside the river market hall. We learned to dye thread with berry skin and iron-water solution, then practiced a simple two-color pattern used in Novaryni travel scarves. I left with uneven edges and stained fingers, but also with a much deeper appreciation for how local craft survives through daily practice.
 
-{% include gallery-widget.html dir="/assets/images/posts/2023-novaryn-activity.webp" description="Activity photo: weaving workshop in Atra market hall" %}
+{% include gallery-widget.html src="/assets/images/posts/2023-novaryn-activity.webp" description="Activity photo: weaving workshop in Atra market hall" %}

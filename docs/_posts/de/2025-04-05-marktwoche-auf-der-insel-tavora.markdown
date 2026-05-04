@@ -10,7 +10,7 @@ excerpt: Tavora Isle gehört zum fiktiven Inselverband Lumera und ist bekannt f�
   Handelsboote ankommen und das Stadtzentrum besonders lebhaft ist. Dies ist ein großartiges
   Reiseziel für Reisende, die Kultur und Aktivitäten am Meer in einer kompakten Umgebung
   mögen.
-image: /assets/images/posts/2025-04-05-market-week-on-tavora-isle/2025-tavora-header.jpg
+image: /assets/images/posts/2025-04-05-market-week-on-tavora-isle/2025-tavora-header.webp
 lang: de
 layout: post
 ref: market-week-on-tavora-isle
@@ -39,7 +39,7 @@ Beginnen Sie vor 9 Uhr morgens auf dem zentralen Fischmarkt, um den gesamten Han
 Nachmittags-Schnorcheltouren starten vom South Dock zu ruhigen Riffzonen mit klarem Wasser und einfachen Einstiegspunkten. Die Guides konzentrieren sich auf sicheres Tempo und kurze Driftabschnitte, wodurch es für Gruppen mit gemischter Erfahrung geeignet ist.
 
 {% include gallery-widget.html
-dir="/assets/images/posts/2025-04-05-market-week-on-tavora-isle/"
+src="/assets/images/posts/2025-04-05-market-week-on-tavora-isle/"
 %}
 
 Tavora funktioniert am besten, wenn Sie die Tage zwischen einer kulturellen Aktivität an Land und einer Aktivität auf See aufteilen.

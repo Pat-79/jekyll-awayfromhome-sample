@@ -48,5 +48,5 @@ Delcor's highland culture is shaped by weather and stone. Houses in the Istrava 
 I woke before sunrise in Veya and joined a local guide for a quiet photo walk above the village terraces. We waited at a ridge bend until fog rolled through the lower valley and sunlight lit the slate rooftops. That half hour was one of the most peaceful travel moments I have had in years, and the photos still remind me why slow itineraries work so well.
 
 {% include gallery-widget.html
-	dir="/assets/images/posts/2026-04-19-slow-travel-in-istrava-highlands/"
+	src="/assets/images/posts/2026-04-19-slow-travel-in-istrava-highlands/"
 %}

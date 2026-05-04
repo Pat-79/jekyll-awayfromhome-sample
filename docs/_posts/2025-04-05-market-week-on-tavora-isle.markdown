@@ -10,7 +10,7 @@ excerpt: Tavora Isle belongs to the fictive island federation of Lumera and is k
   trade boats arrive daily and the town center feels especially lively. This is a
   great destination for travelers who like culture and sea activities in one compact
   setting.
-image: /assets/images/posts/2025-04-05-market-week-on-tavora-isle/2025-tavora-header.jpg
+image: /assets/images/posts/2025-04-05-market-week-on-tavora-isle/2025-tavora-header.webp
 lang: en
 layout: post
 ref: market-week-on-tavora-isle
@@ -39,7 +39,7 @@ Start at the central fish market before 9 AM to see the full trading cycle: unlo
 Afternoon snorkeling tours depart from South Dock to calm reef zones with clear water and easy entry points. The guides focus on safe pacing and short drift segments, which makes it suitable for mixed-experience groups.
 
 {% include gallery-widget.html
-	dir="/assets/images/posts/2025-04-05-market-week-on-tavora-isle/"
+	src="/assets/images/posts/2025-04-05-market-week-on-tavora-isle/"
 %}
 
 Tavora works best when you split days between one land-based cultural activity and one sea-based activity.

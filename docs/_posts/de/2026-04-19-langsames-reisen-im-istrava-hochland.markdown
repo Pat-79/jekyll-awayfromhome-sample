@@ -48,5 +48,5 @@ Die Hochlandkultur von Delcor ist von Wetter und Stein geprägt. Die Häuser in 
 Ich wachte vor Sonnenaufgang in Veya auf und begleitete einen lokalen Führer zu einem ruhigen Fotospaziergang über den Terrassen des Dorfes. Wir warteten an einer Gratbiegung, bis Nebel durch das untere Tal rollte und Sonnenlicht die Schieferdächer beleuchtete. Diese halbe Stunde war einer der friedlichsten Reisemomente, die ich seit Jahren hatte, und die Fotos erinnern mich immer noch daran, warum langsame Reiserouten so gut funktionieren.
 
 {% include gallery-widget.html
-	dir="/assets/images/posts/2026-04-19-slow-travel-in-istrava-highlands/"
+	src="/assets/images/posts/2026-04-19-slow-travel-in-istrava-highlands/"
 %}

@@ -9,7 +9,7 @@ excerpt: Es ist schon eine Weile her, seit ich gereist bin, also habe ich mir di
   bekannt ist. Dieses Gebiet in der Mitte des Archipels besteht aus mehreren Provinzen.
   Manche groß, manche klein. Die bekanntesten Provinzen sind zweifellos Cebu und Bohol,
   aber auch Provinzen wie Negros und das winzige Siquijor gehören zu diesem Gebiet.
-image: /assets/images/posts/2024-11-12-central-visayas-the-philippines/WhatsApp-Image-2024-11-12-at-22.35.40-3-1024x578.jpeg
+image: /assets/images/posts/2024-11-12-central-visayas-the-philippines/WhatsApp-Image-2024-11-12-at-22.35.40-3-1024x578.webp
 lang: de
 ref: central-visayas-the-philippines
 tags:
@@ -57,5 +57,5 @@ Eine weitere berühmte Bohol-Kreatur ist der kleine Koboldmaki. Kobolde gibt es 
 ## Fotos
 
 {% include gallery-widget.html
-dir="/assets/images/posts/2024-11-12-central-visayas-the-philippines/"
+src="/assets/images/posts/2024-11-12-central-visayas-the-philippines/"
 %}

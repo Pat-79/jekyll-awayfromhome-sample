@@ -48,6 +48,6 @@ Das Land liegt am inneren Rand des Leth-Ozeans, aber die Binnengebiete sind ber�
 
 Eines Morgens nahm ich nach leichtem Regen an einer geführten Gratwanderung in der Nähe von Old Cindel teil. Die Wolken hingen tief über den Terrassen und der Führer erklärte, wie Steinkanäle das Wasser in die darunter liegenden Gemeinschaftsgärten leiten. Wir hielten an einem hölzernen Unterschlupf an, um Kräutertee zu trinken, und dieser ruhige Mittelpunkt wurde für mich die schönste Erinnerung an den gesamten langen Aufenthalt.
 
-{% include gallery-widget.html dir="/assets/images/posts/2024-aurindel-activity.webp" description="Aktivitätsfoto: Geführte Gratwanderung in der Nähe von Old Cindel" %}
+{% include gallery-widget.html src="/assets/images/posts/2024-aurindel-activity.webp" description="Aktivitätsfoto: Geführte Gratwanderung in der Nähe von Old Cindel" %}
 
 <p class="ai-image-disclaimer">Haftungsausschluss für Bilder: Dieses Aktivitätsfoto wurde für den Demogebrauch KI-generiert.</p>

@@ -10,7 +10,7 @@ excerpt: De Varneth Republic is gemaakt voor roadtrips. De snelwegen doorkruisen
   begon in Harrow Point en volgde Route K9 noordwaarts naar de Neral Border Lakes,
   onderweg sliep ik in kleine lodges langs de weg. Als uw ideale vakantie betekent
   dat u om de paar uur van landschap moet veranderen, dan is Varneth briljant.
-image: /assets/images/posts/2022-varneth-header.jpg
+image: /assets/images/posts/2022-varneth-header.webp
 lang: nl
 layout: post
 ref: roadtrip-through-varneth-republic
@@ -48,4 +48,4 @@ De meeste reizigers omschrijven Varneth als ruig, maar de verrassing is hoe geor
 
 Mijn favoriete moment vond plaats bij Neral Rim, waar ik na zonsondergang dikke kardemomkoffie boven een kampvuur zette. Een plaatselijke boswachter wees drie sterren aan die in oude Varnethi-navigatieverhalen werden gebruikt, en de hele groep zat rustig te luisteren naar de wind die door droog gras beweegt. Het was eenvoudig, maar het voelde als de exacte beloning die een lange roadtrip belooft.
 
-{% include gallery-widget.html dir="/assets/images/posts/2022-varneth-activity.webp" description="Activiteitenfoto: kampvuurpauze nabij Neral Rim" %}
+{% include gallery-widget.html src="/assets/images/posts/2022-varneth-activity.webp" description="Activiteitenfoto: kampvuurpauze nabij Neral Rim" %}

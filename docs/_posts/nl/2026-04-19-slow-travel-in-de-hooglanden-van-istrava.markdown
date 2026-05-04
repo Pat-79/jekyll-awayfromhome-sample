@@ -49,5 +49,5 @@ De hooglandcultuur van Delcor wordt gevormd door het weer en steen. Huizen in de
 Ik werd vóór zonsopgang wakker in Veya en sloot me aan bij een lokale gids voor een rustige fotowandeling boven de dorpsterrassen. We wachtten bij een bocht in de bergkam totdat de mist door de lagere vallei rolde en het zonlicht de leistenen daken verlichtte. Dat halfuur was een van de meest vredige reismomenten die ik in jaren heb gehad, en de foto's herinneren me er nog steeds aan waarom langzame routes zo goed werken.
 
 {% include gallery-widget.html
-	dir="/assets/images/posts/2026-04-19-slow-travel-in-istrava-highlands/"
+	src="/assets/images/posts/2026-04-19-slow-travel-in-istrava-highlands/"
 %}

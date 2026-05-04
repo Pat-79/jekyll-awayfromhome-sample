@@ -9,7 +9,7 @@ excerpt: 'I spent twelve days crossing the Velsora Continent by train, starting 
   the southern city of Rhen and ending in Northmark on the edge of the Glassea Coast.
   This was a touring vacation built around movement itself: wide observation windows,
   station cafés, and dramatic shifts in architecture between regions.'
-image: /assets/images/posts/2025-velsora-header.jpg
+image: /assets/images/posts/2025-velsora-header.webp
 lang: en
 layout: post
 ref: train-touring-across-velsora
@@ -52,4 +52,4 @@ Velsora is politically divided into several partner states, but rail infrastruct
 
 I set myself a small challenge: one meaningful photo at every major station between Rhen and Northmark. Instead of generic skyline shots, I focused on details such as old clocks, handwritten departure boards, and platform mosaics. That turned ordinary waits into mini explorations and made the whole train journey feel intentionally paced.
 
-{% include gallery-widget.html dir="/assets/images/posts/2025-velsora-activity.webp" description="Activity photo: photo challenge at a Velsora rail station" %}
+{% include gallery-widget.html src="/assets/images/posts/2025-velsora-activity.webp" description="Activity photo: photo challenge at a Velsora rail station" %}

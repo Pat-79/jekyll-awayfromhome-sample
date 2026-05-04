@@ -10,7 +10,7 @@ excerpt: 'Der Caldris-Archipel gehört zur Republik Seradon, einer auf das Meer 
   mich für einen Insel-Hopping-Urlaub und bewegte mich in neun Tagen zwischen vier
   Inseln: Taris, Elvo, Neme und Kadrin. Mit dem Boot sind die Entfernungen kurz, aber
   jede Insel hat eine eigene Identität und Landschaft.'
-image: /assets/images/posts/2024-caldris-header.jpg
+image: /assets/images/posts/2024-caldris-header.webp
 lang: de
 layout: post
 ref: island-hopping-caldris-archipelago
@@ -48,4 +48,4 @@ Seradon ist stolz auf seine Marine-Stewardship-Regeln. Korallengärten rund um d
 
 Am fünften Tag nahm ich an einem geführten Schnorchelausflug über einem Korallenaufwuchsgebiet in der Nähe des Taris East Reef teil. Es war unglaublich, über diesen geometrischen Kindergartenrahmen zu schweben, und unser Führer erklärte, wie örtliche Schulen jeden Monat dabei helfen, die Klarheit des Wassers zu überwachen. Es fühlte sich weniger wie eine touristische Aktivität an, sondern eher wie eine Einladung zu einem aktiven Naturschutzprojekt.
 
-{% include gallery-widget.html dir="/assets/images/posts/2024-caldris-activity.webp" description="Aktivitätsfoto: Insel-Hopping-Schiff im Altstadthafen von Taris" %}
+{% include gallery-widget.html src="/assets/images/posts/2024-caldris-activity.webp" description="Aktivitätsfoto: Insel-Hopping-Schiff im Altstadthafen von Taris" %}

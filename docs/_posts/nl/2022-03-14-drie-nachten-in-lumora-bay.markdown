@@ -10,7 +10,7 @@ excerpt: 'Lumora Bay is de hoofdstad van Bayland, een compact land aan de westel
   die van details houden: betegelde trappen, kleine boekhandels en avondmarkten waar
   elke tafel gloeit met amberkleurige lantaarns. Ik kwam voor een korte stedentrip,
   maar de plek zorgde ervoor dat ik na de eerste ochtend langzamer ging.'
-image: /assets/images/posts/2022-lumora-header.jpg
+image: /assets/images/posts/2022-lumora-header.webp
 lang: nl
 layout: post
 ref: city-break-in-lumora-bay
@@ -48,4 +48,4 @@ Bayland heeft een reputatie voor zorgvuldige stadsplanning. Oude wijken in Lumor
 
 Ik nam deel aan een kookles op het dak in de oude kadewijk en leerde gerookte citrusrijst maken met zeekruidenolie, een klassieke Bayland-comfortmaaltijd. De chef-kok legde uit hoe lokale handelaars ooit bergkruiden uit Norveil Ridge combineerden met schaaldieren uit Maren Inlet, en dat verhaal maakte van het diner een geschiedenisles. Ook het koken met zes andere reizigers zorgde ervoor dat de stad minder anoniem aanvoelde.
 
-{% include gallery-widget.html dir="/assets/images/posts/2022-lumora-activity.webp" description="Activiteitenfoto: kookles op het dak in Lumora Bay" %}
+{% include gallery-widget.html src="/assets/images/posts/2022-lumora-activity.webp" description="Activiteitenfoto: kookles op het dak in Lumora Bay" %}

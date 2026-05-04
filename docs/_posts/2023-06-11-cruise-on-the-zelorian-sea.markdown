@@ -10,7 +10,7 @@ excerpt: 'I boarded in Port Celen, the maritime heart of Orindar, for a week-lon
   a floating hotel experience. Instead, it felt like a moving cultural route, because
   every stop had its own rhythm: cliff villages, citrus docks, and small island workshops
   where rope-making is still done by hand.'
-image: /assets/images/posts/2023-zelorian-header.jpg
+image: /assets/images/posts/2023-zelorian-header.webp
 lang: en
 layout: post
 ref: cruise-on-the-zelorian-sea
@@ -48,4 +48,4 @@ The Zelorian Sea lies between Orindar and the Talven Coast, and sailors call it 
 
 At Nyris Lagoon I joined a guided scuba dive over the outer coral shelf. We descended along a rope line into clear blue water, then drifted above layered reef gardens full of fan coral and bright reef fish. Our dive lead pointed out a shallow arch where sunlight cut through in bands, and that underwater light made the whole experience feel cinematic and calm at the same time.
 
-{% include gallery-widget.html dir="/assets/images/posts/2023-zelorian-activity.webp" description="Activity photo: guided coral reef dive in Nyris Lagoon" %}
+{% include gallery-widget.html src="/assets/images/posts/2023-zelorian-activity.webp" description="Activity photo: guided coral reef dive in Nyris Lagoon" %}

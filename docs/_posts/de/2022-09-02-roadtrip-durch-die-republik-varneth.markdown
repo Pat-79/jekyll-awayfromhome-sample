@@ -11,7 +11,7 @@ excerpt: Die Republik Varneth ist wie geschaffen für Roadtrips. Die Autobahnen 
   Lakes, wobei ich unterwegs in kleinen Hütten am Straßenrand übernachtete. Wenn Ihr
   idealer Urlaub bedeutet, dass sich alle paar Stunden die Landschaft verändert, ist
   Varneth brillant.
-image: /assets/images/posts/2022-varneth-header.jpg
+image: /assets/images/posts/2022-varneth-header.webp
 lang: de
 layout: post
 ref: roadtrip-through-varneth-republic
@@ -49,4 +49,4 @@ Die meisten Reisenden beschreiben Varneth als rau, doch das Überraschende ist, 
 
 Mein schönster Moment ereignete sich am Neral Rim, wo ich nach Sonnenuntergang am Lagerfeuer dicken Kardamomkaffee kochte. Ein örtlicher Ranger wies auf drei Sterne hin, die in alten Varnethi-Navigationsmärchen verwendet wurden, und die ganze Gruppe saß schweigend da und lauschte dem Wind, der durch trockenes Gras wehte. Es war einfach, aber es schien genau die Belohnung zu sein, die ein langer Roadtrip verspricht.
 
-{% include gallery-widget.html dir="/assets/images/posts/2022-varneth-activity.webp" description="Aktivitätsfoto: Lagerfeuerpause in der Nähe von Neral Rim" %}
+{% include gallery-widget.html src="/assets/images/posts/2022-varneth-activity.webp" description="Aktivitätsfoto: Lagerfeuerpause in der Nähe von Neral Rim" %}

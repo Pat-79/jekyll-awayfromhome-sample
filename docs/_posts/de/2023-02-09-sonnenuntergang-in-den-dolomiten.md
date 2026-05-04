@@ -10,7 +10,7 @@ excerpt: Die Dolomiten sind eine der schönsten Gegenden der Alpen in Europa. Si
   von den Gipfeln und schönen Tälern bekannt. Was gibt es Besseres, als einen Tag
   Skifahren im Dezember auf einem Hügel mit Blick auf das schöne Fassatal abzuschließen,
   zusammen mit wunderschönem Sonnenschein und Musik im Hintergrund!
-image: /assets/images/posts/2023-12-18-sunset-in-the-dolomites/5_saslong.jpg
+image: /assets/images/posts/2023-12-18-sunset-in-the-dolomites/5_saslong.webp
 lang: de
 layout: post
 ref: sunset-in-the-dolomites
@@ -51,5 +51,5 @@ max_width="1000px"
 ## Fotogalerie
 
 {% include gallery-widget.html
-	dir="/assets/images/posts/2023-12-18-sunset-in-the-dolomites/"
+	src="/assets/images/posts/2023-12-18-sunset-in-the-dolomites/"
 %}

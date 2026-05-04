@@ -93,10 +93,12 @@ video_widget:
   poster: /assets/images/default-hero.svg
 
 gallery_widget:
-  max_width:
+  max_width: 900px
   max_height:
-  show_image_caption: false
-  show_image_description: false
+  show_image_caption: "false"
+  show_image_description: "false"
+  carousel_autoplay: 6
+
 
 # ── Sidebar ───────────────────────────────────────────────────────────────────
 sidebar:

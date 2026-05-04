@@ -11,7 +11,7 @@ excerpt: Coralis Port is de belangrijkste havenstad van het fictieve land Vireli
   een compacte stedentrip met uitzicht op zee. Ik verbleef twee nachten in het Lantern
   Quarter, waar de cafés vroeg opengaan en de boulevard tot laat in de avond levendig
   blijft.
-image: /assets/images/posts/2022-coralis-header.jpg
+image: /assets/images/posts/2022-coralis-header.webp
 lang: nl
 layout: post
 ref: weekend-in-coralis-port
@@ -35,12 +35,12 @@ Reizen in Coralis is eenvoudig. Het oude centrum is beloopbaar, terwijl elektris
 
 Coralis heeft een beroemd streetfoodcircuit rond de Tide Lantern Market. Kleine kraampjes richten zich op gegrilde zeevruchten, citrusrijst en zoete kokosgebakjes. Het is een geweldige activiteit voor de eerste nacht, omdat je lokale smaken kunt proeven terwijl je de indeling van de stad leert kennen.
 
-{% include gallery-widget.html dir="/assets/images/posts/2022-coralis-activity-1.webp" description="Activiteitenfoto: avondmarktproeverij in de haven van Coralis" %}
+{% include gallery-widget.html src="/assets/images/posts/2022-coralis-activity-1.webp" description="Activiteitenfoto: avondmarktproeverij in de haven van Coralis" %}
 
 ### 2. Kajaklus bij zonsopgang in de haven
 
 Voor een rustige ochtend kunt u een kajak huren bij East Dock en over de binnenhaven peddelen voordat het veerverkeer begint. Het water is kalm bij zonsopgang en je krijgt een weids uitzicht op de skyline met heel weinig drukte. Lokale gidsen nemen meestal korte geschiedenisstops op in de buurt van de oude stenen pieren.
 
-{% include gallery-widget.html dir="/assets/images/posts/2022-coralis-activity-2.webp" description="Activiteitenfoto: kajaklus bij zonsopgang in de haven van Coralis" %}
+{% include gallery-widget.html src="/assets/images/posts/2022-coralis-activity-2.webp" description="Activiteitenfoto: kajaklus bij zonsopgang in de haven van Coralis" %}
 
 Coralis werkt het beste als u uw reisschema flexibel houdt: één actieve ochtend, één avond gericht op eten en voldoende tijd om gewoon langs de waterkant te wandelen.

@@ -10,7 +10,7 @@ excerpt: 'De Caldris-archipel behoort tot de Republiek Seradon, een op de zee ge
   eilandhoppende vakantie en verhuisde in negen dagen tussen vier eilanden: Taris,
   Elvo, Neme en Kadrin. De afstanden per boot zijn kort, maar elk eiland heeft een
   eigen identiteit en landschap.'
-image: /assets/images/posts/2024-caldris-header.jpg
+image: /assets/images/posts/2024-caldris-header.webp
 lang: nl
 layout: post
 ref: island-hopping-caldris-archipelago
@@ -48,4 +48,4 @@ Seradon is trots op zijn regels voor maritiem rentmeesterschap. Koraalkwekerijen
 
 On day five I joined a guided snorkeling trip above a coral nursery zone near Taris East Reef. Floating over those geometric nursery frames was incredible, and our guide explained how local schools help monitor water clarity each month. It felt less like a tourist activity and more like being invited into an active conservation project.
 
-{% include gallery-widget.html dir="/assets/images/posts/2024-caldris-activity.webp" description="Activiteitenfoto: eilandhoppend schip in een oude stadshaven van Taris" %}
+{% include gallery-widget.html src="/assets/images/posts/2024-caldris-activity.webp" description="Activiteitenfoto: eilandhoppend schip in een oude stadshaven van Taris" %}

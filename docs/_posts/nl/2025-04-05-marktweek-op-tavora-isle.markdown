@@ -10,7 +10,7 @@ excerpt: Tavora Isle behoort tot de fictieve eilandfederatie Lumera en staat bek
   wanneer er dagelijks handelsboten arriveren en het stadscentrum bijzonder levendig
   aanvoelt. Dit is een geweldige bestemming voor reizigers die van cultuur en zee-activiteiten
   houden in één compacte omgeving.
-image: /assets/images/posts/2025-04-05-market-week-on-tavora-isle/2025-tavora-header.jpg
+image: /assets/images/posts/2025-04-05-market-week-on-tavora-isle/2025-tavora-header.webp
 lang: nl
 layout: post
 ref: market-week-on-tavora-isle
@@ -39,7 +39,7 @@ Begin vóór 09.00 uur op de centrale vismarkt om de volledige handelscyclus te 
 Middagsnorkeltochten vertrekken vanuit South Dock naar rustige rifzones met helder water en gemakkelijke toegangspunten. De gidsen richten zich op veilig tempo en korte driftsegmenten, waardoor het geschikt is voor groepen met gemengde ervaringen.
 
 {% include gallery-widget.html
-dir="/assets/images/posts/2025-04-05-market-week-on-tavora-isle/"
+src="/assets/images/posts/2025-04-05-market-week-on-tavora-isle/"
 %}
 
 Tavora werkt het beste als je de dagen verdeelt tussen een culturele activiteit op het land en een activiteit op zee.

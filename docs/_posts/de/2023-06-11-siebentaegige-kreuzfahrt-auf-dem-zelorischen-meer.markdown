@@ -11,7 +11,7 @@ excerpt: 'Ich ging in Port Celen, dem maritimen Herzen von Orindar, an Bord und 
   eine bewegende Kulturroute an, denn jede Station hatte ihren eigenen Rhythmus: Klippendörfer,
   Zitrusanlegestellen und kleine Inselwerkstätten, in denen die Seilherstellung noch
   immer von Hand erfolgt.'
-image: /assets/images/posts/2023-zelorian-header.jpg
+image: /assets/images/posts/2023-zelorian-header.webp
 lang: de
 layout: post
 ref: cruise-on-the-zelorian-sea
@@ -49,4 +49,4 @@ Das Zelorische Meer liegt zwischen Orindar und der Talvenküste und wird von See
 
 In der Nyris-Lagune nahm ich an einem geführten Tauchgang über dem äußeren Korallenschelf teil. Wir stiegen entlang einer Leine in klares, blaues Wasser hinab und ließen uns dann über geschichtete Riffgärten voller Fächerkorallen und leuchtender Rifffische treiben. Unser Tauchleiter wies auf einen flachen Bogen hin, durch den das Sonnenlicht in Streifen fiel, und das Unterwasserlicht ließ das ganze Erlebnis filmisch und ruhig zugleich wirken.
 
-{% include gallery-widget.html dir="/assets/images/posts/2023-zelorian-activity.webp" description="Aktivitätsfoto: geführter Korallenriff-Tauchgang in der Nyris-Lagune" %}
+{% include gallery-widget.html src="/assets/images/posts/2023-zelorian-activity.webp" description="Aktivitätsfoto: geführter Korallenriff-Tauchgang in der Nyris-Lagune" %}

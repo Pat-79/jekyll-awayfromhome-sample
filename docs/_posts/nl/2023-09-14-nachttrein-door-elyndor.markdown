@@ -10,7 +10,7 @@ excerpt: 'Elyndor is een fictieve hoofdstedelijke regio in de Republiek Calven, 
   meteen waarom mensen deze route aanbevelen: verlichte perrons, oude gewelfde terminals
   en vlotte transfers naar het stadscentrum. Voor rondreizende reizigers is Elyndor
   zowel een bestemming als een transportervaring.'
-image: /assets/images/posts/2023-elyndor-header.jpg
+image: /assets/images/posts/2023-elyndor-header.webp
 lang: nl
 layout: post
 ref: night-rail-through-elyndor
@@ -34,12 +34,12 @@ De stad zelf heeft een gelaagde indeling. Historische stationswijken liggen naas
 
 Dit korte spoorsegment kruist bruggen en verhoogde lijnen met een sterk uitzicht op de skyline. Rijden in de buurt van het gouden uur geeft dramatisch licht op de oudere stenen stations. Het is een eenvoudige maar gedenkwaardige activiteit, vooral voor treinreizen.
 
-{% include gallery-widget.html dir="/assets/images/posts/2023-elyndor-activity-1.webp" description="Activiteitenfoto: schilderachtig spoortraject door Elyndor" %}
+{% include gallery-widget.html src="/assets/images/posts/2023-elyndor-activity-1.webp" description="Activiteitenfoto: schilderachtig spoortraject door Elyndor" %}
 
 ### 2. Begeleide architectuurwandeling door het oude station
 
 Verschillende lokale gidsen bieden een twee uur durende route door het centrale terminaldistrict, waarbij restauratiedetails en transitgeschiedenis worden belicht. Je loopt minder dan verwacht, dus dat komt goed uit na een reisdag. Het helpt je ook te begrijpen hoe de stad rond zijn spoorwegnet groeide.
 
-{% include gallery-widget.html dir="/assets/images/posts/2023-elyndor-activity-2.webp" description="Activiteitenfoto: wandeltocht in de stationswijk van Elyndor" %}
+{% include gallery-widget.html src="/assets/images/posts/2023-elyndor-activity-2.webp" description="Activiteitenfoto: wandeltocht in de stationswijk van Elyndor" %}
 
 Elyndor is uitstekend geschikt voor reizigers die houden van op beweging gebaseerde routes waarbij het openbaar vervoer zelf onderdeel wordt van het verhaal.

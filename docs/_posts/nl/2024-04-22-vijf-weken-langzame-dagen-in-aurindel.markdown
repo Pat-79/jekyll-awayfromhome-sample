@@ -48,6 +48,6 @@ Het land ligt langs de binnenrand van de Leth-oceaan, maar de gebieden in het bi
 
 Op een ochtend, na lichte regen, nam ik deel aan een begeleide bergwandeling nabij Old Cindel. De wolken hingen laag boven de terrassen en de gids legde uit hoe stenen water naar de gemeenschappelijke tuinen beneden leiden. We stopten bij een houten schuilplaats voor kruidenthee, en dat rustige middelpunt werd mijn favoriete herinnering aan het hele lange verblijf.
 
-{% include gallery-widget.html dir="/assets/images/posts/2024-aurindel-activity.webp" description="Activiteitenfoto: begeleide bergkamwandeling nabij Old Cindel" %}
+{% include gallery-widget.html src="/assets/images/posts/2024-aurindel-activity.webp" description="Activiteitenfoto: begeleide bergkamwandeling nabij Old Cindel" %}
 
 <p class="ai-image-disclaimer">Disclaimer afbeelding: deze activiteitenfoto is door AI gegenereerd voor demogebruik.</p>

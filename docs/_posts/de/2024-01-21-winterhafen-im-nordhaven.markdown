@@ -10,7 +10,7 @@ excerpt: 'Nordhaven ist der wichtigste Fjordhafen des fiktiven Nordlandes, einem
   in der Stadt eine ruhige Atmosphäre: helle Morgen, klare Luft und ein gleichmäßiger
   Hafenrhythmus. Ich habe dies als winterlichen Städtetrip mit kurzen Outdoor-Aktivitäten
   und warmen Erholungsmöglichkeiten geplant.'
-image: /assets/images/posts/2024-nordhaven-header.jpg
+image: /assets/images/posts/2024-nordhaven-header.webp
 lang: de
 layout: post
 ref: winter-harbor-in-nordhaven
@@ -34,12 +34,12 @@ Nordlandstädte sind für die kalte Jahreszeit konzipiert. Beheizte Transitunter
 
 Eine beliebte Aktivität ist die Buchung eines Thermalbads am Wasser mit Kontrastpools und Saunen mit Meerblick. Es ist perfekt nach einer Reise oder nach einem kalten Morgenspaziergang. Viele Orte bieten zeitgesteuerte Sitzungen an, sodass Sie diese in einen kurzen Reiseplan integrieren können.
 
-{% include gallery-widget.html dir="/assets/images/posts/2024-nordhaven-activity-1.webp" description="Aktivitätsfoto: Thermalbad am Wasser in Nordhaven" %}
+{% include gallery-widget.html src="/assets/images/posts/2024-nordhaven-activity-1.webp" description="Aktivitätsfoto: Thermalbad am Wasser in Nordhaven" %}
 
 ### 2. Schneeschuhroute am Außengrat
 
 Geführte Schneeschuhtouren beginnen in der Nähe des Nordpiers und führen über einen sanften Bergrücken über dem Hafen hinauf. Die Route ist anfängerfreundlich und konzentriert sich eher auf malerische Stopps als auf Geschwindigkeit. An klaren Tagen genießen Sie weite Fjordpanoramen und dramatische Winterfarben.
 
-{% include gallery-widget.html dir="/assets/images/posts/2024-nordhaven-activity-2.webp" description="Aktivitätsfoto: Schneeschuhroute oberhalb des Hafens Nordhaven" %}
+{% include gallery-widget.html src="/assets/images/posts/2024-nordhaven-activity-2.webp" description="Aktivitätsfoto: Schneeschuhroute oberhalb des Hafens Nordhaven" %}
 
 Nordhaven ist eine gute Wahl für Reisende, die Winteratmosphäre suchen, ohne sich voll und ganz auf alpine Sportarten einzulassen.

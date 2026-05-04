@@ -10,7 +10,7 @@ excerpt: 'Nordhaven is de belangrijkste fjordhaven van het fictieve Nordland, ee
   voelt kalm aan in januari: heldere ochtenden, frisse lucht en een stabiel havenritme.
   Ik plande dit als een winterse stedentrip met korte buitenactiviteiten en warme
   herstelmogelijkheden.'
-image: /assets/images/posts/2024-nordhaven-header.jpg
+image: /assets/images/posts/2024-nordhaven-header.webp
 lang: nl
 layout: post
 ref: winter-harbor-in-nordhaven
@@ -34,12 +34,12 @@ Nordland-steden zijn ontworpen voor koude seizoenen. Verwarmde transitschuilplaa
 
 Een populaire activiteit is het boeken van een thermale spa aan het water met contrastbaden en sauna's met uitzicht op zee. Het is perfect na een reis of na een koude ochtendwandeling. Veel plaatsen bieden getimede sessies aan, zodat u dit in een kort reisschema kunt inpassen.
 
-{% include gallery-widget.html dir="/assets/images/posts/2024-nordhaven-activity-1.webp" description="Activiteitenfoto: thermaalbad aan het water in Nordhaven" %}
+{% include gallery-widget.html src="/assets/images/posts/2024-nordhaven-activity-1.webp" description="Activiteitenfoto: thermaalbad aan het water in Nordhaven" %}
 
 ### 2. Sneeuwschoenroute op de buitenkam
 
 Begeleide sneeuwschoentochten beginnen bij de noordpier en beklimmen een glooiende bergkam boven de haven. De route is beginnersvriendelijk en richt zich op mooie stops in plaats van op snelheid. Op heldere dagen krijg je weidse fjordpanorama's en dramatische winterkleuren.
 
-{% include gallery-widget.html dir="/assets/images/posts/2024-nordhaven-activity-2.webp" description="Activiteitenfoto: sneeuwschoenroute boven de haven van Nordhaven" %}
+{% include gallery-widget.html src="/assets/images/posts/2024-nordhaven-activity-2.webp" description="Activiteitenfoto: sneeuwschoenroute boven de haven van Nordhaven" %}
 
 Nordhaven is een goede keuze voor reizigers die op zoek zijn naar een winterse sfeer zonder zich te verplichten aan volledige alpinesporten.

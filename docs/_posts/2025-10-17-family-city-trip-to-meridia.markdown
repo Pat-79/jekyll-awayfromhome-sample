@@ -10,7 +10,7 @@ excerpt: Meridia Prime is the capital of Solmere, a compact country on the silve
   trip because distances are short, transit is reliable, and public parks are everywhere.
   In four days we visited museums, waterways, and a science district without ever
   feeling rushed.
-image: /assets/images/posts/2025-10-17-family-city-trip-to-meridia/2025-meridia-header.jpg
+image: /assets/images/posts/2025-10-17-family-city-trip-to-meridia/2025-meridia-header.webp
 lang: en
 layout: post
 ref: family-city-trip-to-meridia
@@ -49,5 +49,5 @@ Solmere is proud of practical design. Meridia's old core is mostly pedestrian, w
 Before breakfast I rented a city bike and rode the inner loop of Crescent Park while the park cafés were opening. Families were doing light exercise, and maintenance crews were watering flower terraces before the heat arrived. It was a calm start that showed how livable Meridia is beyond its tourist highlights.
 
 {% include gallery-widget.html
-	dir="/assets/images/posts/2025-10-17-family-city-trip-to-meridia/"
+	src="/assets/images/posts/2025-10-17-family-city-trip-to-meridia/"
 %}

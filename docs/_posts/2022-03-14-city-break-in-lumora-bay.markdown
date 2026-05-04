@@ -10,7 +10,7 @@ excerpt: 'Lumora Bay is the capital-port of Bayland, a compact country on the we
   detail: tiled stairways, tiny bookstores, and night markets where every table glows
   with amber lanterns. I came for a short city break, but the place made me slow down
   after the first morning.'
-image: /assets/images/posts/2022-lumora-header.jpg
+image: /assets/images/posts/2022-lumora-header.webp
 lang: en
 layout: post
 ref: city-break-in-lumora-bay
@@ -48,4 +48,4 @@ Bayland has a reputation for careful urban planning. Old neighborhoods in Lumora
 
 I joined a rooftop cooking class in the old quay district and learned to make smoked citrus rice with sea-herb oil, a classic Bayland comfort meal. The chef explained how local traders once combined mountain herbs from Norveil Ridge with shellfish from Maren Inlet, and that story turned dinner into a history lesson. Cooking with six other travelers also made the city feel less anonymous.
 
-{% include gallery-widget.html dir="/assets/images/posts/2022-lumora-activity.webp" description="Activity photo: rooftop cooking class in Lumora Bay" %}
+{% include gallery-widget.html src="/assets/images/posts/2022-lumora-activity.webp" description="Activity photo: rooftop cooking class in Lumora Bay" %}

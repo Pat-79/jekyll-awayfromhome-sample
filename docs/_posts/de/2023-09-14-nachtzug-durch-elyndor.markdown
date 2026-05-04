@@ -10,7 +10,7 @@ excerpt: 'Elyndor ist eine fiktive Hauptstadtregion in der Republik Calven, ber�
   sofort verstanden, warum die Leute diese Route empfehlen: beleuchtete Bahnsteige,
   alte gewölbte Terminals und reibungslose Transfers in die Innenstadt. Für Rundreisende
   ist Elyndor sowohl ein Reiseziel als auch ein Transporterlebnis.'
-image: /assets/images/posts/2023-elyndor-header.jpg
+image: /assets/images/posts/2023-elyndor-header.webp
 lang: de
 layout: post
 ref: night-rail-through-elyndor
@@ -34,12 +34,12 @@ Die Stadt selbst ist geschichtet angelegt. Historische Bahnhofsviertel liegen ne
 
 Dieser kurze Bahnabschnitt überquert Brücken und Hochstrecken mit herrlichem Blick auf die Skyline. Wenn Sie kurz vor der goldenen Stunde fahren, erhalten Sie ein dramatisches Licht auf die älteren Steinstationen. Es handelt sich um eine einfache, aber unvergessliche Aktivität, insbesondere für Reisen mit Bahnbezug.
 
-{% include gallery-widget.html dir="/assets/images/posts/2023-elyndor-activity-1.webp" description="Aktivitätsfoto: malerischer Bahnabschnitt durch Elyndor" %}
+{% include gallery-widget.html src="/assets/images/posts/2023-elyndor-activity-1.webp" description="Aktivitätsfoto: malerischer Bahnabschnitt durch Elyndor" %}
 
 ### 2. Geführter Rundgang durch die Architektur des alten Bahnhofs
 
 Mehrere örtliche Führer bieten eine zweistündige Route durch das zentrale Terminalviertel an und beleuchten Details zur Restaurierung und zur Transitgeschichte. Sie laufen weniger als erwartet, sodass es nach einem Reisetag gut funktioniert. Es hilft Ihnen auch zu verstehen, wie die Stadt rund um ihr Schienennetz gewachsen ist.
 
-{% include gallery-widget.html dir="/assets/images/posts/2023-elyndor-activity-2.webp" description="Aktivitätsfoto: Rundgang im Bahnhofsviertel Elyndor" %}
+{% include gallery-widget.html src="/assets/images/posts/2023-elyndor-activity-2.webp" description="Aktivitätsfoto: Rundgang im Bahnhofsviertel Elyndor" %}
 
 Elyndor eignet sich hervorragend für Reisende, die bewegungsbasierte Reiserouten mögen, bei denen der Transit selbst Teil der Geschichte wird.

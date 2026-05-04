@@ -9,7 +9,7 @@ excerpt: De Selvaris Loop is een schilderachtige kustrit in de fictieve Ardyn Co
   bekend om klifwegen, blauw water en compacte havensteden. Ik heb de volledige lus
   in drie dagen gereden, wat genoeg tijd gaf voor uitkijkpunten zonder dat ik me gehaast
   voelde. De route is goed aangegeven en ideaal voor een klassieke zomerse roadtrip.
-image: /assets/images/posts/2024-selvaris-header.jpg
+image: /assets/images/posts/2024-selvaris-header.webp
 lang: nl
 layout: post
 ref: coastal-roadtrip-on-the-selvaris-loop
@@ -33,12 +33,12 @@ Ardyn Coast is zeer bezoekersvriendelijk voor chauffeurs. Er zijn regelmatig tan
 
 Tussen Maro Bend en Vellan Point kijken verschillende haltes uit over de open kust. Dit is een activiteit met hoge beloning voor fotografie en korte wandelingen. Ochtendlicht geeft meestal de helderste zeekleur en zichtbaarheid.
 
-{% include gallery-widget.html dir="/assets/images/posts/2024-selvaris-activity-1.webp" description="Activiteitenfoto: uitkijkpunt op de klif op de Selvaris Loop" %}
+{% include gallery-widget.html src="/assets/images/posts/2024-selvaris-activity-1.webp" description="Activiteitenfoto: uitkijkpunt op de klif op de Selvaris Loop" %}
 
 ### 2. Kustfietspadsegment
 
 In de stad Lirse kun je een fiets huren en een uur of twee over een vlak kustlijnpad rijden. Het is een geweldige onderbreking van het autorijden en geeft toegang tot kleine baaien die u niet met de auto kunt bereiken. De meeste verhuurwinkels bieden routekaarten met rustplaatsen.
 
-{% include gallery-widget.html dir="/assets/images/posts/2024-selvaris-activity-2.webp" description="Activiteitenfoto: kustfietspad in Lirse" %}
+{% include gallery-widget.html src="/assets/images/posts/2024-selvaris-activity-2.webp" description="Activiteitenfoto: kustfietspad in Lirse" %}
 
 Voor een uitgebalanceerde reis kunt u de rijtrajecten afwisselen met korte actieve pauzes en de zonsonderganguren verlaten voor havensteden.

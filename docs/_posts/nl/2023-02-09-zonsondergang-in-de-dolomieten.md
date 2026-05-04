@@ -10,7 +10,7 @@ excerpt: De Dolomieten zijn een van de mooiste gebieden van de Alpen in Europa. 
   adembenemende uitzichten van de toppen en prachtige valleien. Wat beter dan een
   skiedag in december afsluiten op een heuvel met uitzicht op de prachtige Fassa-vallei,
   samen met een prachtige zonneschijn en muziek op de achtergrond!
-image: /assets/images/posts/2023-12-18-sunset-in-the-dolomites/5_saslong.jpg
+image: /assets/images/posts/2023-12-18-sunset-in-the-dolomites/5_saslong.webp
 lang: nl
 layout: post
 ref: sunset-in-the-dolomites
@@ -51,5 +51,5 @@ max_width="1000px"
 ## Fotogalerij
 
 {% include gallery-widget.html
-	dir="/assets/images/posts/2023-12-18-sunset-in-the-dolomites/"
+	src="/assets/images/posts/2023-12-18-sunset-in-the-dolomites/"
 %}

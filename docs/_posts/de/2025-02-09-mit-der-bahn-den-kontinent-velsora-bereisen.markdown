@@ -9,7 +9,7 @@ excerpt: 'Ich verbrachte zwölf Tage damit, den Velsora-Kontinent mit dem Zug zu
   angefangen in der südlichen Stadt Rhen bis hin zu Northmark am Rande der Glassea-Küste.
   Dies war ein Reiseurlaub, der sich um die Bewegung selbst drehte: große Aussichtsfenster,
   Bahnhofscafés und dramatische Veränderungen in der Architektur zwischen den Regionen.'
-image: /assets/images/posts/2025-velsora-header.jpg
+image: /assets/images/posts/2025-velsora-header.webp
 lang: de
 layout: post
 ref: train-touring-across-velsora
@@ -52,4 +52,4 @@ Velsora ist politisch in mehrere Partnerstaaten aufgeteilt, die Schieneninfrastr
 
 Ich habe mir eine kleine Herausforderung gestellt: ein aussagekräftiges Foto an jedem größeren Bahnhof zwischen Rhen und Northmark. Statt allgemeiner Skyline-Aufnahmen habe ich mich auf Details wie alte Uhren, handgeschriebene Abfahrtstafeln und Bahnsteigmosaiken konzentriert. Das verwandelte gewöhnliche Wartezeiten in Mini-Erkundungen und sorgte dafür, dass sich die gesamte Zugfahrt absichtlich beschleunigt anfühlte.
 
-{% include gallery-widget.html dir="/assets/images/posts/2025-velsora-activity.webp" description="Aktivitätsfoto: Foto-Challenge an einem Bahnhof in Velsora" %}
+{% include gallery-widget.html src="/assets/images/posts/2025-velsora-activity.webp" description="Aktivitätsfoto: Foto-Challenge an einem Bahnhof in Velsora" %}

@@ -10,7 +10,7 @@ excerpt: Meridia Prime is de hoofdstad van Solmere, een compact land aan de zilv
   hele gezin omdat de afstanden kort zijn, het openbaar vervoer betrouwbaar is en
   er overal openbare parken zijn. In vier dagen bezochten we musea, waterwegen en
   een wetenschapsdistrict zonder ons ooit gehaast te voelen.
-image: /assets/images/posts/2025-10-17-family-city-trip-to-meridia/2025-meridia-header.jpg
+image: /assets/images/posts/2025-10-17-family-city-trip-to-meridia/2025-meridia-header.webp
 lang: nl
 layout: post
 ref: family-city-trip-to-meridia
@@ -49,5 +49,5 @@ Solmere is trots op praktisch ontwerp. De oude kern van Meridia is grotendeels v
 Voor het ontbijt huurde ik een stadsfiets en reed door de binnenlus van Crescent Park terwijl de parkcafés open gingen. Gezinnen deden lichte oefeningen en onderhoudsploegen waren bloementerrassen aan het besproeien voordat de hitte aanbrak. Het was een rustige start die liet zien hoe leefbaar Meridia buiten de toeristische hoogtepunten ligt.
 
 {% include gallery-widget.html
-dir="/assets/images/posts/2025-10-17-family-city-trip-to-meridia/"
+src="/assets/images/posts/2025-10-17-family-city-trip-to-meridia/"
 %}

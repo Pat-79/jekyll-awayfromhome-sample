@@ -10,7 +10,7 @@ excerpt: Novaryn ist eines dieser Länder, in denen sich jeder Bezirk wie ein Ka
   Festungsstädte und regionale Gastronomiehallen, beginnend in Velis und endend in
   der Flussstadt Atra. Das Land ist kompakt genug für Überlandreisen, aber abwechslungsreich
   genug, um jeden Tag frisch zu bleiben.
-image: /assets/images/posts/2023-novaryn-header.jpg
+image: /assets/images/posts/2023-novaryn-header.webp
 lang: de
 layout: post
 ref: cultural-tour-of-novaryn
@@ -48,4 +48,4 @@ Was am meisten auffiel, war die Art und Weise, wie Novaryn die regionale Identit
 
 In Atra nahm ich an einer kurzen Webwerkstatt in der Markthalle am Fluss teil. Wir lernten, Fäden mit Beerenschalen und Eisen-Wasser-Lösung zu färben, und übten dann ein einfaches zweifarbiges Muster, das für Novaryni-Reiseschals verwendet wurde. Ich ging mit unebenen Kanten und fleckigen Fingern weg, aber auch mit einer viel tieferen Wertschätzung dafür, wie das lokale Handwerk durch die tägliche Praxis überlebt.
 
-{% include gallery-widget.html dir="/assets/images/posts/2023-novaryn-activity.webp" description="Aktivitätsfoto: Weberei in der Atra-Markthalle" %}
+{% include gallery-widget.html src="/assets/images/posts/2023-novaryn-activity.webp" description="Aktivitätsfoto: Weberei in der Atra-Markthalle" %}

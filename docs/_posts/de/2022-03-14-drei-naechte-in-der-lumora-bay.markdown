@@ -10,7 +10,7 @@ excerpt: 'Lumora Bay ist die Hafenhauptstadt von Bayland, einem kompakten Land a
   gekachelte Treppen, kleine Buchläden und Nachtmärkte, auf denen jeder Tisch mit
   bernsteinfarbenen Laternen erstrahlt. Ich kam für einen kurzen Städtetrip hierher,
   aber der Ort ließ mich nach dem ersten Morgen langsamer werden.'
-image: /assets/images/posts/2022-lumora-header.jpg
+image: /assets/images/posts/2022-lumora-header.webp
 lang: de
 layout: post
 ref: city-break-in-lumora-bay
@@ -48,4 +48,4 @@ Bayland ist für seine sorgfältige Stadtplanung bekannt. Alte Viertel in Lumora
 
 Ich nahm an einem Kochkurs auf dem Dach des alten Kaiviertels teil und lernte, geräucherten Zitrusreis mit Meereskräuteröl zuzubereiten, ein klassisches Bayland-Haushaltsgericht. Der Küchenchef erklärte, wie lokale Händler einst Bergkräuter vom Norveil Ridge mit Schalentieren vom Maren Inlet kombinierten, und diese Geschichte machte das Abendessen zu einer Geschichtsstunde. Durch das Kochen mit sechs anderen Reisenden fühlte sich die Stadt auch weniger anonym an.
 
-{% include gallery-widget.html dir="/assets/images/posts/2022-lumora-activity.webp" description="Aktivitätsfoto: Kochkurs auf dem Dach in Lumora Bay" %}
+{% include gallery-widget.html src="/assets/images/posts/2022-lumora-activity.webp" description="Aktivitätsfoto: Kochkurs auf dem Dach in Lumora Bay" %}

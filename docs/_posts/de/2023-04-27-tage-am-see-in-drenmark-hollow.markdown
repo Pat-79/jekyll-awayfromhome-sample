@@ -10,7 +10,7 @@ excerpt: 'Drenmark Hollow liegt im fiktiven Hochland Serrinor, wo lange Täler k
   Freien: frische Luft, sichere Wege und kein Druck, zwischen den Attraktionen hin
   und her zu hetzen. Ich habe mich in Hollow Gate niedergelassen, einem kleinen Dorf
   mit Bergblick von fast jeder Straße.'
-image: /assets/images/posts/2023-drenmark-header.jpg
+image: /assets/images/posts/2023-drenmark-header.webp
 lang: de
 layout: post
 ref: lakeside-days-in-drenmark-hollow
@@ -34,12 +34,12 @@ Die Seengebiete von Serrinor sind für ihre strenge Instandhaltung der Wanderweg
 
 Der Hollow Crest Trail ist eine mittelschwere Route mit Waldabschnitten und offenen Aussichtspunkten über das Seebecken. Bringen Sie mehrere Schichten mit, da sich das Wetter in der Höhe schnell ändert. Diese Wanderung eignet sich ideal für eine halbtägige Aktivität mit häufigen Fotostopps.
 
-{% include gallery-widget.html dir="/assets/images/posts/2023-drenmark-activity-1.webp" description="Aktivitätsfoto: Gratwanderung oberhalb von Drenmark Hollow" %}
+{% include gallery-widget.html src="/assets/images/posts/2023-drenmark-activity-1.webp" description="Aktivitätsfoto: Gratwanderung oberhalb von Drenmark Hollow" %}
 
 ### 2. Seerundfahrt mit Holzbooten
 
 Lokale Betreiber fahren nachmittags mit kleinen Holzbooten um den zentralen See. Der Rundweg bietet eine andere Perspektive auf die Dörfer und Terrassenhänge, und Führer erzählen oft Geschichten über ältere Handelsrouten in den Bergen. Es ist eine sanfte Aktivität, die einen aktiveren Wandertag ausgleicht.
 
-{% include gallery-widget.html dir="/assets/images/posts/2023-drenmark-activity-2.webp" description="Aktivitätsfoto: Rundfahrt mit Holzbooten auf dem Drenmark-See" %}
+{% include gallery-widget.html src="/assets/images/posts/2023-drenmark-activity-2.webp" description="Aktivitätsfoto: Rundfahrt mit Holzbooten auf dem Drenmark-See" %}
 
 Wenn Sie nur zwei Tage Zeit haben, kombinieren Sie einen aktiven Wandertag mit einem langsameren Tag auf dem Wasser und Sie werden trotzdem ein umfassendes Gefühl für die Region bekommen.

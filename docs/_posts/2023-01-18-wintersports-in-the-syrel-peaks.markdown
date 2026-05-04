@@ -48,6 +48,6 @@ Thaloria is known for strict mountain safety culture. Avalanche education is vis
 
 I took my first snowboard lesson on a gentle practice slope in Kiro Pass. The instructor taught us how to fall safely before teaching turns, and that made a huge difference in confidence. By late afternoon I could link short turns and descend without panic, which felt like a personal breakthrough in a place that initially looked intimidating.
 
-{% include gallery-widget.html dir="/assets/images/posts/2023-syrelpeaks-activity.webp" description="Activity photo: snowboard lesson in Kiro Pass" %}
+{% include gallery-widget.html src="/assets/images/posts/2023-syrelpeaks-activity.webp" description="Activity photo: snowboard lesson in Kiro Pass" %}
 
 <p class="ai-image-disclaimer">Image disclaimer: This activity photo is AI-generated for demo use.</p>

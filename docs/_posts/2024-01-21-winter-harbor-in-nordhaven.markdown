@@ -9,7 +9,7 @@ excerpt: 'Nordhaven is the main fjord port of fictive Nordland, a country known 
   long winter light and coastal mountain weather. The city feels calm in January:
   bright mornings, crisp air, and a steady harbor rhythm. I planned this as a winter
   city break with short outdoor activities and warm recovery options.'
-image: /assets/images/posts/2024-nordhaven-header.jpg
+image: /assets/images/posts/2024-nordhaven-header.webp
 lang: en
 layout: post
 ref: winter-harbor-in-nordhaven
@@ -33,12 +33,12 @@ Nordland cities are designed for cold seasons. Heated transit shelters, covered 
 
 A popular activity is booking a waterfront thermal spa with contrast pools and sea-view saunas. It is perfect after travel or after a cold morning walk. Many places offer timed sessions so you can fit this into a short itinerary.
 
-{% include gallery-widget.html dir="/assets/images/posts/2024-nordhaven-activity-1.webp" description="Activity photo: waterfront thermal spa in Nordhaven" %}
+{% include gallery-widget.html src="/assets/images/posts/2024-nordhaven-activity-1.webp" description="Activity photo: waterfront thermal spa in Nordhaven" %}
 
 ### 2. Snowshoe route on the outer ridge
 
 Guided snowshoe tours start near the north pier and climb a gentle ridge above the harbor. The route is beginner-friendly and focuses on scenic stops rather than speed. On clear days you get wide fjord panoramas and dramatic winter colors.
 
-{% include gallery-widget.html dir="/assets/images/posts/2024-nordhaven-activity-2.webp" description="Activity photo: snowshoe route above Nordhaven harbor" %}
+{% include gallery-widget.html src="/assets/images/posts/2024-nordhaven-activity-2.webp" description="Activity photo: snowshoe route above Nordhaven harbor" %}
 
 Nordhaven is a strong choice for travelers who want winter atmosphere without committing to full alpine sports.

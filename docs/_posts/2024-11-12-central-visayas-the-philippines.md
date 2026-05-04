@@ -9,7 +9,7 @@ excerpt: It’s been a while since I’ve been traveling, so this time I took my
   consists out of several provinces. Some big, some small. The most known provinces
   are without doubt Cebu and Bohol, but provinces like Negros and the tiny Siquijor
   also are part of this area.
-image: /assets/images/posts/2024-11-12-central-visayas-the-philippines/WhatsApp-Image-2024-11-12-at-22.35.40-3-1024x578.jpeg
+image: /assets/images/posts/2024-11-12-central-visayas-the-philippines/WhatsApp-Image-2024-11-12-at-22.35.40-3-1024x578.webp
 lang: en
 ref: central-visayas-the-philippines
 tags:
@@ -57,5 +57,5 @@ Another famous Bohol creature is the little tiny Tarsier. Tarsiers can be found 
 ## Photos
 
 {% include gallery-widget.html
-	dir="/assets/images/posts/2024-11-12-central-visayas-the-philippines/"
+	src="/assets/images/posts/2024-11-12-central-visayas-the-philippines/" mode="carousel"
 %}

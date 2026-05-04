@@ -10,7 +10,7 @@ excerpt: 'Ik bracht twaalf dagen door met het doorkruisen van het Velsora-contin
   rand van de Glassea-kust. Dit was een rondreisvakantie die was opgebouwd rond de
   beweging zelf: brede observatieramen, stationscafés en dramatische verschuivingen
   in de architectuur tussen regio''s.'
-image: /assets/images/posts/2025-velsora-header.jpg
+image: /assets/images/posts/2025-velsora-header.webp
 lang: nl
 layout: post
 ref: train-touring-across-velsora
@@ -53,4 +53,4 @@ Velsora is politiek verdeeld in verschillende partnerstaten, maar de spoorweginf
 
 Ik stelde mezelf een kleine uitdaging: één betekenisvolle foto op elk groot station tussen Rhen en Northmark. In plaats van algemene skylinefoto's concentreerde ik me op details zoals oude klokken, handgeschreven vertrekborden en perronmozaïeken. Dat veranderde het gewone wachten in mini-verkenningen en zorgde ervoor dat de hele treinreis opzettelijk tempo voelde.
 
-{% include gallery-widget.html dir="/assets/images/posts/2025-velsora-activity.webp" description="Activiteitenfoto: foto-uitdaging op een Velsora-treinstation" %}
+{% include gallery-widget.html src="/assets/images/posts/2025-velsora-activity.webp" description="Activiteitenfoto: foto-uitdaging op een Velsora-treinstation" %}

@@ -9,7 +9,7 @@ excerpt: Het is alweer een tijdje geleden dat ik op reis ben geweest, dus deze k
   Dit gebied in het midden van de archipel bestaat uit verschillende provincies. Sommige
   groot, sommige klein. De bekendste provincies zijn zonder twijfel Cebu en Bohol,
   maar ook provincies als Negros en het kleine Siquijor maken deel uit van dit gebied.
-image: /assets/images/posts/2024-11-12-central-visayas-the-philippines/WhatsApp-Image-2024-11-12-at-22.35.40-3-1024x578.jpeg
+image: /assets/images/posts/2024-11-12-central-visayas-the-philippines/WhatsApp-Image-2024-11-12-at-22.35.40-3-1024x578.webp
 lang: nl
 ref: central-visayas-the-philippines
 tags:
@@ -57,5 +57,5 @@ Een ander beroemd Bohol-wezen is de kleine Tarsier. Spookdiertjes zijn te vinden
 ## Foto's
 
 {% include gallery-widget.html
-dir="/assets/images/posts/2024-11-12-central-visayas-the-philippines/"
+src="/assets/images/posts/2024-11-12-central-visayas-the-philippines/"
 %}

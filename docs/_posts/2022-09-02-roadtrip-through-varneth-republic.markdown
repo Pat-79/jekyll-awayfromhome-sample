@@ -10,7 +10,7 @@ excerpt: The Varneth Republic is made for roadtrips. Its highways cross dry cany
   in Harrow Point and followed Route K9 north to the Neral Border Lakes, sleeping
   in small roadside lodges along the way. If your ideal vacation means changing landscapes
   every few hours, Varneth is brilliant.
-image: /assets/images/posts/2022-varneth-header.jpg
+image: /assets/images/posts/2022-varneth-header.webp
 lang: en
 layout: post
 ref: roadtrip-through-varneth-republic
@@ -48,4 +48,4 @@ Most travelers describe Varneth as rugged, but the surprise is how organized rem
 
 My favorite moment happened at Neral Rim, where I brewed thick cardamom coffee over a campfire after sunset. A local ranger pointed out three stars used in old Varnethi navigation tales, and the whole group sat quietly listening to the wind move through dry grass. It was simple, but it felt like the exact reward a long roadtrip promises.
 
-{% include gallery-widget.html dir="/assets/images/posts/2022-varneth-activity.webp" description="Activity photo: campfire break near Neral Rim" %}
+{% include gallery-widget.html src="/assets/images/posts/2022-varneth-activity.webp" description="Activity photo: campfire break near Neral Rim" %}

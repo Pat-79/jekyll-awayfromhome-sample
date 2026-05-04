@@ -47,6 +47,6 @@ The country sits along the inner rim of the Leth Ocean, but inland areas are mor
 
 One morning after light rain I joined a guided ridge hike near Old Cindel. The clouds sat low over the terraces and the guide explained how stone channels direct water into community gardens below. We stopped at a wooden shelter for herb tea, and that quiet midpoint became my favorite memory of the entire long stay.
 
-{% include gallery-widget.html dir="/assets/images/posts/2024-aurindel-activity.webp" description="Activity photo: guided ridge hike near Old Cindel" %}
+{% include gallery-widget.html src="/assets/images/posts/2024-aurindel-activity.webp" description="Activity photo: guided ridge hike near Old Cindel" %}
 
 <p class="ai-image-disclaimer">Image disclaimer: This activity photo is AI-generated for demo use.</p>

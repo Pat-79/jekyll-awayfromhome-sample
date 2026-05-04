@@ -48,6 +48,6 @@ Thaloria staat bekend om haar strikte veiligheidscultuur in de bergen. Lawine-ed
 
 Ik nam mijn eerste snowboardles op een zachte oefenhelling in de Kiro Pass. De instructeur leerde ons hoe we veilig konden vallen voordat we de bochten aangaven, en dat maakte een enorm verschil in zelfvertrouwen. Tegen het einde van de middag kon ik korte bochten maken en zonder paniek afdalen, wat voelde als een persoonlijke doorbraak op een plek die er aanvankelijk intimiderend uitzag.
 
-{% include gallery-widget.html dir="/assets/images/posts/2023-syrelpeaks-activity.webp" description="Activiteitenfoto: snowboardles in Kiro Pass" %}
+{% include gallery-widget.html src="/assets/images/posts/2023-syrelpeaks-activity.webp" description="Activiteitenfoto: snowboardles in Kiro Pass" %}
 
 <p class="ai-image-disclaimer">Disclaimer afbeelding: deze activiteitenfoto is door AI gegenereerd voor demogebruik.</p>

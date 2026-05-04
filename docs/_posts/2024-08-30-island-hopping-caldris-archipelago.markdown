@@ -9,7 +9,7 @@ excerpt: 'The Caldris Archipelago belongs to the Republic of Seradon, a sea-focu
   nation spread across warm waters of the Nalore Ocean. I chose this as an island-hopping
   vacation and moved between four islands in nine days: Taris, Elvo, Neme, and Kadrin.
   Distances are short by boat, but each island has a distinct identity and landscape.'
-image: /assets/images/posts/2024-caldris-header.jpg
+image: /assets/images/posts/2024-caldris-header.webp
 lang: en
 layout: post
 ref: island-hopping-caldris-archipelago
@@ -47,4 +47,4 @@ Seradon is proud of its marine stewardship rules. Coral nurseries around the eas
 
 On day five I joined a guided snorkeling trip above a coral nursery zone near Taris East Reef. Floating over those geometric nursery frames was incredible, and our guide explained how local schools help monitor water clarity each month. It felt less like a tourist activity and more like being invited into an active conservation project.
 
-{% include gallery-widget.html dir="/assets/images/posts/2024-caldris-activity.webp" description="Activity photo: island-hopping ship in an old town harbour at Taris" %}
+{% include gallery-widget.html src="/assets/images/posts/2024-caldris-activity.webp" description="Activity photo: island-hopping ship in an old town harbour at Taris" %}

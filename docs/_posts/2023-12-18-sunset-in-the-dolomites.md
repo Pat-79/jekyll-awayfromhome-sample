@@ -10,7 +10,7 @@ excerpt: The Dolomites are one of the most beautiful areas of the Alps in Europe
   their breathtaking vistas from the tops and beautiful valleys. What better then
   end a day of skiing in December on top of a hill overlooking the beautiful Fassa
   Valley, together with a beautiful sunshine and music in the background!
-image: /assets/images/posts/2023-12-18-sunset-in-the-dolomites/5_saslong.jpg
+image: /assets/images/posts/2023-12-18-sunset-in-the-dolomites/5_saslong.webp
 lang: en
 layout: post
 ref: sunset-in-the-dolomites
@@ -51,5 +51,5 @@ max_width="1000px"
 ## Photo gallery
 
 {% include gallery-widget.html
-	dir="/assets/images/posts/2023-12-18-sunset-in-the-dolomites/"
+	src="/assets/images/posts/2023-12-18-sunset-in-the-dolomites/"
 %}

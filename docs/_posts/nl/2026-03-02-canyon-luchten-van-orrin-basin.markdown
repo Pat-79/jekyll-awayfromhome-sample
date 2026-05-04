@@ -10,7 +10,7 @@ excerpt: Orrin Basin is een fictief ravijngebied in de landinwaarts gelegen staa
   verbinden. Ik had deze reis gepland als een avontuurlijke tour met wandelingen bij
   daglicht en avondhemelsessies. De regio voelt groot en rustig aan, met een lange
   horizon in alle richtingen.
-image: /assets/images/posts/2026-03-02-canyon-skies-of-orrin-basin/2026-orrin-header.jpg
+image: /assets/images/posts/2026-03-02-canyon-skies-of-orrin-basin/2026-orrin-header.webp
 lang: nl
 layout: post
 ref: canyon-skies-of-orrin-basin
@@ -39,7 +39,7 @@ Het Varrin Rim-pad is een gematigde route die de bovenrand van het bassin volgt 
 Na zonsondergang zetten begeleide kampgroepen hun kamp op in zones met weinig licht, weg van de hoofdwegen. Droge lucht en minimale lichtvervuiling zorgen ervoor dat sterren uitstekend zichtbaar zijn. Veel rondleidingen bevatten basisinformatie over astronomie, dus zelfs beginners kunnen veel van de ervaring opdoen.
 
 {% include gallery-widget.html
-dir="/assets/images/posts/2026-03-02-canyon-skies-of-orrin-basin/"
+src="/assets/images/posts/2026-03-02-canyon-skies-of-orrin-basin/"
 %}
 
 Orrin Basin is ideaal voor reizigers die eenvoudige logistiek, grote landschappen en activiteiten willen die op het landschap zelf gericht zijn.

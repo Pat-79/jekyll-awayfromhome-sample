@@ -10,7 +10,7 @@ excerpt: Das Orrin-Becken ist eine fiktive Canyon-Region im Binnenstaat Merovar,
   habe diese Reise als Abenteuertour mit Tageswanderungen und abendlichen Sky-Sessions
   geplant. Die Region fühlt sich groß und ruhig an, mit langen Horizonten in alle
   Richtungen.
-image: /assets/images/posts/2026-03-02-canyon-skies-of-orrin-basin/2026-orrin-header.jpg
+image: /assets/images/posts/2026-03-02-canyon-skies-of-orrin-basin/2026-orrin-header.webp
 lang: de
 layout: post
 ref: canyon-skies-of-orrin-basin
@@ -39,7 +39,7 @@ Der Varrin Rim Trail ist eine mittelschwere Route, die am oberen Rand des Becken
 Nach Sonnenuntergang schlagen sich geführte Lagergruppen in Zonen mit wenig Licht abseits der Hauptstraßen auf. Trockene Luft und minimale Lichtverschmutzung sorgen für eine hervorragende Sichtbarkeit der Sterne. Viele Touren beinhalten grundlegende astronomische Hinweise, sodass auch Anfänger viel von dem Erlebnis mitnehmen können.
 
 {% include gallery-widget.html
-dir="/assets/images/posts/2026-03-02-canyon-skies-of-orrin-basin/"
+src="/assets/images/posts/2026-03-02-canyon-skies-of-orrin-basin/"
 %}
 
 Das Orrin-Becken ist ideal für Reisende, die eine einfache Logistik, große Landschaften und Aktivitäten wünschen, die sich auf die Landschaft selbst konzentrieren.
