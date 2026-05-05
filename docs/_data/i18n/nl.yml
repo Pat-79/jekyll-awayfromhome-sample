@@ -1,7 +1,13 @@
-# Dutch UI strings
+# Dutch UI strings (Nederlands)
+# Used via: {% assign t = site.data.i18n[page.lang] | default: site.data.i18n.en %}
+# Then access with t.section.key
+
 site:
-  title: Away From Home
-  description: Een reisblog dat de wereld in langzamer tempo verkent.
+  title: Jouw geweldige titel
+  description: >-
+    Schrijf hier een geweldige beschrijving voor je nieuwe site. Je kunt deze
+    regel bewerken in _config.yml. Het verschijnt in de document head meta (voor
+    Google zoekresultaten) en in je feed.xml sitebeschrijving.
 
 nav:
   home: Home
@@ -9,11 +15,14 @@ nav:
   blog: Blog
   browse: Bladeren
   search: Zoeken
+  cookies: Cookies
   archive: Archief
   tags: Tags
 
 ui:
   language: Taal
+  language_auto: Automatisch
+  language_auto_short: AUTO
   search_placeholder: Doorzoek verhalen...
   open_menu: Sitemenu openen
   latest_posts: Laatste berichten
@@ -89,9 +98,9 @@ browse:
   eyebrow_tag: "Tag"
   item_count_one: "1 item"
   item_count: "{count} items"
-  showing_author: 'Berichten en pagina''s van "{label}" weergeven.'
-  showing_tag: 'Berichten en pagina''s getagd "{label}" weergeven.'
-  showing_category: 'Berichten en pagina''s in categorie "{label}" weergeven.'
+  showing_author: "Berichten en pagina's van \"{label}\" weergeven."
+  showing_tag: "Berichten en pagina's getagd \"{label}\" weergeven."
+  showing_category: "Berichten en pagina's in categorie \"{label}\" weergeven."
   not_found_eyebrow: "Filter"
   not_found_title: "Filter bestaat niet"
   not_found_message: "De gevraagde auteur, categorie of tag kan niet worden weergegeven omdat deze niet bestaat op deze site."
@@ -107,7 +116,7 @@ tags:
   intro: Filter berichten op tag, of laat de pagina ongefilterd om alle getagde secties te bekijken.
   all: Alles
   showing_all: Berichten voor alle tags weergeven.
-  showing_tagged: 'Berichten getagd "{label}" weergeven.'
+  showing_tagged: "Berichten getagd \"{label}\" weergeven."
   eyebrow: TAG
   post_count_one: "1 bericht"
   post_count: "{count} berichten"
@@ -120,3 +129,16 @@ tags:
 footer:
   copyright: Alle rechten voorbehouden.
   disclaimer: Inhoud en meningen worden verstrekt voor informatieve doeleinden.
+
+storage_widget:
+  clear_button: Alle sitegegevens wissen
+  msg_confirm: Dit verwijdert alle voorkeuren en gecachte gegevens die door deze site in je browser zijn opgeslagen. Doorgaan?
+  msg_done: Alle sitegegevens zijn gewist.
+  msg_list: "Verwijderde items: {list}."
+  msg_nothing: Er zijn geen sitegegevens gevonden in je browser.
+  msg_total: Totaal
+  key_afh_lang: Taalvoorkeur
+  key_afh_theme: Themavoorkeur
+  key_search_data: Zoekcache
+  key_search_data_version: Versie zoekcache
+  key_afh_highlight_terms: Zoektermen markering

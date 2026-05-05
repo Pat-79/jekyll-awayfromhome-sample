@@ -1,7 +1,13 @@
-# German UI strings
+# German UI strings (Deutsch)
+# Used via: {% assign t = site.data.i18n[page.lang] | default: site.data.i18n.en %}
+# Then access with t.section.key
+
 site:
-  title: Away From Home
-  description: Ein Reiseblog, der die Welt in langsamerer Tempo erkundet.
+  title: Dein großartiger Titel
+  description: >-
+    Schreibe hier eine großartige Beschreibung für deine neue Website. Du kannst
+    diese Zeile in _config.yml bearbeiten. Sie erscheint im Dokument-Head-Meta
+    (für Google-Suchergebnisse) und in deiner feed.xml-Sitebeschreibung.
 
 nav:
   home: Startseite
@@ -9,11 +15,14 @@ nav:
   blog: Blog
   browse: Stöbern
   search: Suche
+  cookies: Cookies
   archive: Archiv
   tags: Tags
 
 ui:
   language: Sprache
+  language_auto: Automatisch
+  language_auto_short: AUTO
   search_placeholder: Geschichten durchsuchen...
   open_menu: Websitemenü öffnen
   latest_posts: Neueste Beiträge
@@ -89,9 +98,9 @@ browse:
   eyebrow_tag: "Tag"
   item_count_one: "1 Eintrag"
   item_count: "{count} Einträge"
-  showing_author: 'Beiträge und Seiten von "{label}" anzeigen.'
-  showing_tag: 'Beiträge und Seiten mit dem Tag "{label}" anzeigen.'
-  showing_category: 'Beiträge und Seiten in der Kategorie "{label}" anzeigen.'
+  showing_author: "Beiträge und Seiten von \"{label}\" anzeigen."
+  showing_tag: "Beiträge und Seiten mit dem Tag \"{label}\" anzeigen."
+  showing_category: "Beiträge und Seiten in der Kategorie \"{label}\" anzeigen."
   not_found_eyebrow: "Filter"
   not_found_title: "Filter nicht vorhanden"
   not_found_message: "Der angeforderte Autor, die Kategorie oder der Tag kann nicht angezeigt werden, da er auf dieser Website nicht vorhanden ist."
@@ -101,22 +110,35 @@ browse:
 search:
   intro: Finde Geschichten, Orte und Seiten auf der Website.
   word_regex: "[A-Za-zÀ-ÖØ-öø-ÿ0-9''\\-]+"
-  stopwords: "aber,alle,allem,allen,aller,alles,als,also,am,an,andere,anderem,anderen,anderer,anderes,auch,auf,aus,bei,bin,bis,bist,da,damit,dann,das,dass,dem,den,der,des,dich,die,dies,diese,dieselbe,dieselben,diesem,diesen,dieser,dieses,dir,doch,dort,du,dies,dumm,durch,dürft,eben,ebenso,eigen,eigene,einig,einige,einigen,einiger,einiges,einmal,eins,einsam,einst,eintrag,einzeln,einzige,einzigen,einziger,einziges,eis,eiskalt,eiter,eiweiß,eizelle,eizelle,ejaculation,ejakulationen,ejakuliert,ekau,ekel,ekelbar,ekelerregend,ekelhaft,ekelhafte,ekeln,ekelnd,ekelnd,ekelnd,ekelnd,ekelnd,ekels,ekligst,ekstasen,ekstase,ekstatik,ekstatisch,ekzem,ekzeme,el,elain,elan,eland,elands,elanor,elastic,elastik,elate,elater,elba,elbe,elben,elbinge,elbisch,elbogen,elbstrom,elder,elderschaft,eldras,eldred,eldress,eldrich,eldritch,elea,eleate,eleaten,eleatisch,eleatismus,eleckos,eleemosyna,elefant,elefanten,elefantenochse,elefantheit,elefantisch,elefantitis,elefantius,elefantopus,elefantös,elefantozoon,elegant,elegans,elegante,eleganter,elegantesten,elegantesten,elegantheit,elegantia,elegantias,elegantie,elegantie,elegantiae,elegantiam,elegantie,elegantis,elegantissime,elegantissimi,elegantissimo,elegantissimos,elegantissimum,elegantius,elegantium,elegantque,eleganz,eleggias,elegiacal,elegiaca,elegiacae,elegiac,elegiacs,elegiach,elegiae,elegiague,elegiak,elegiala,elegialer,elegialia,elegiamon,elegian,elegiana,elegiase,elegiae,elegeia,elegeis,elegela,elegeli,elegema,elegena,elegant,elegens,elegenstein,eleger,elegers,elegesti,elegestralia,elegeta,elegeta,elegeta,elegeta,elegeta,elegeta,elegeta,elegeta,elegeia,elegeis,elegia,elegiae,elegiague,elegiae,elegiae,elegiah,elegiaidis,elegiain,elegial,elegiale,elegiale,elegialisch,elegiale,elegialk,elegiallia,elegially,elegials,elegialium,elegiallis,elegias,elegias,elegiarum,elegias,elegias,elegias,elegias,elegias,elegiasi,elegiastri,elegiastrum,elegiastrum,elegiata,elegiati,elegiatis,elegiate,elegiatis,elegiatica,elegiatici,elegiaticum,elegiaticum,elegiaticorum,elegiaticum,elegiaticus,elegiatis,elegiatische,elegiatischem,elegiatischen,elegiatischer,elegiatisches,elegiatiska,elegiatiska,elegiatiska,elegiatiska,elegiaticae,elegiatae,elegiatae,elegiatica,elegiaticum,elegiaticae,elegiatarum,elegiatae,elegiati,elegiatici,elegiatorum,elegiati,elegiatica,elegiaticus,elegiatis,elegiaticae,elegiatae,elegiati,elegiatica,elegiatis,elegiatim,elegiatis,elegiatisch,elegiatis,elegiatisieren,elegiaum,elegiatlich,elegiatlichst,elegiatis,elegiatlich,elegiatliche,elegiatlichem,elegiatlichen,elegiatlicher,elegiatliches,elegiatlichkeit,elegiats,elegiatum,elegiaul,elegiaule,elegiauli,elegiauli,elegiaulus,elegiaurum,elegiauum,elegiaula,elegiaulum,elegiaurum,elegiavit,elegiavis,elegiavisne,elegiavit,elegiavis,elegiavit,elegiavit,elegiavit,elegiavis,elegiavi,elegiavi,elegiavit,elegiavi,elegiavi,elegiavisne,elegiavissime,elegiavisse,elegiavissem,elegiavissent,elegiavit,elegiaverat,elegiaverant,elegiavi,elegiavit,elegiave"
+  stopwords: "aber,alle,allem,allen,aller,alles,als,also,am,an,andere,anderem,anderen,anderer,anderes,auch,auf,aus,bei,bin,bis,bist,da,damit,dann,das,dass,dem,den,der,des,dich,die,dies,diese,diesem,diesen,dieser,dieses,dir,doch,dort,durch,ein,eine,einem,einen,einer,eines,er,es,etwas,euch,für,gegen,gewesen,hab,habe,haben,hat,hatte,hatten,hier,hin,hinter,ich,ihm,ihn,ihnen,ihr,ihre,ihrem,ihren,ihrer,ihres,im,immer,in,ins,ist,jede,jedem,jeden,jeder,jedes,jetzt,kann,kein,keine,keinem,keinen,keiner,keines,machen,man,mein,meine,meinem,meinen,meiner,meines,mich,mir,mit,nach,nicht,nichts,noch,nun,nur,ob,oder,ohne,sein,seine,seinem,seinen,seiner,seines,selbst,sich,sie,sind,so,soll,sollte,sondern,sonst,über,um,und,uns,unter,viel,vom,von,vor,war,waren,warst,was,weil,weiter,welche,welchem,welchen,welcher,welches,wenn,wer,werden,wie,wieder,will,wir,wird,wirst,wo,wollen,wollte,würde,würden,zu,zum,zur,zwar,zwischen"
 
 tags:
-  intro: Filter Beiträge nach Tag, oder lass die Seite ungefiltert, um alle Tag-Abschnitte zu durchsuchen.
+  intro: Beiträge nach Tag filtern oder die Seite ungefiltert lassen, um alle getagten Abschnitte zu durchsuchen.
   all: Alle
   showing_all: Beiträge für alle Tags anzeigen.
-  showing_tagged: 'Beiträge mit dem Tag "{label}" anzeigen.'
+  showing_tagged: "Beiträge mit dem Tag \"{label}\" anzeigen."
   eyebrow: TAG
   post_count_one: "1 Beitrag"
   post_count: "{count} Beiträge"
   read_more: Mehr lesen...
-  not_found: "Das angeforderte Tag existiert nicht."
-  not_found_title: "Tag existiert nicht"
-  not_found_message: "Das angeforderte Tag kann nicht angezeigt werden, da es auf dieser Website nicht existiert."
+  not_found: "Der angeforderte Tag ist nicht vorhanden."
+  not_found_title: "Tag nicht vorhanden"
+  not_found_message: "Der angeforderte Tag kann nicht angezeigt werden, da er auf dieser Website nicht vorhanden ist."
   no_tags: "Noch keine Tags."
 
 footer:
   copyright: Alle Rechte vorbehalten.
-  disclaimer: Inhalte und Meinungen werden nur zu Informationszwecken bereitgestellt.
+  disclaimer: Inhalte und Meinungen dienen nur zu Informationszwecken.
+
+storage_widget:
+  clear_button: Alle Website-Daten löschen
+  msg_confirm: Dadurch werden alle von dieser Website in deinem Browser gespeicherten Einstellungen und zwischengespeicherten Daten gelöscht. Fortfahren?
+  msg_done: Alle Website-Daten wurden gelöscht.
+  msg_list: "Entfernte Einträge: {list}."
+  msg_nothing: Es wurden keine Website-Daten in deinem Browser gefunden.
+  msg_total: Gesamt
+  key_afh_lang: Spracheinstellung
+  key_afh_theme: Theme-Auswahl
+  key_search_data: Suchindex-Cache
+  key_search_data_version: Suchindex-Version
+  key_afh_highlight_terms: Suchbegriff-Markierung

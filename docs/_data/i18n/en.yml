@@ -1,19 +1,28 @@
 # English UI strings
+# Used via: {% assign t = site.data.i18n[page.lang] | default: site.data.i18n.en %}
+# Then access with t.section.key
+
 site:
-  title: Away From Home
-  description: A travel blog exploring the world at a slower pace.
+  title: Your awesome title
+  description: >-
+    Write an awesome description for your new site here. You can edit this
+    line in _config.yml. It will appear in your document head meta (for
+    Google search results) and in your feed.xml site description.
 
 nav:
   home: Home
   about: About
-  blog: Blog
+  blog: Blogs
   browse: Browse
   search: Search
+  cookies: Cookies
   archive: Archive
   tags: Tags
 
 ui:
   language: Language
+  language_auto: Automatic
+  language_auto_short: AUTO
   search_placeholder: Search stories...
   open_menu: Open site menu
   latest_posts: Latest Posts
@@ -101,7 +110,7 @@ browse:
 search:
   intro: Find stories, places, and pages across the site.
   word_regex: "[A-Za-zÀ-ÖØ-öø-ÿ0-9''\\-]+"
-  stopwords: "a,about,above,after,again,against,all,am,an,and,any,are,as,at,be,because,been,before,being,below,between,both,but,by,can,could,did,do,does,doing,down,during,each,few,for,from,had,has,have,he,her,hers,him,his,how,i,if,in,into,is,it,its,just,me,more,most,my,no,nor,not,of,on,or,other,our,out,over,own,same,she,so,some,such,than,that,the,their,them,then,there,these,they,this,those,to,too,under,until,up,very,was,we,were,what,when,where,which,while,who,whom,why,will,with,would,you,your"
+  stopwords: "a,about,above,after,again,against,all,also,am,an,and,any,are,around,as,at,be,because,been,before,being,below,between,both,but,by,can,could,day,days,did,do,does,doing,down,during,each,few,first,for,from,further,had,has,have,having,he,her,here,hers,herself,him,himself,his,how,i,if,in,into,is,it,its,itself,just,last,like,more,most,my,myself,no,nor,not,now,of,off,on,once,one,only,or,other,our,ours,ourselves,out,over,own,really,same,she,should,so,some,such,than,that,the,their,theirs,them,themselves,then,there,these,they,this,those,through,to,too,under,until,up,very,was,we,well,were,what,when,where,which,while,who,whom,why,will,with,without,would,you,your,yours,yourself,yourselves"
 
 tags:
   intro: Filter posts by tag, or leave the page unfiltered to browse every tagged section.
@@ -120,3 +129,16 @@ tags:
 footer:
   copyright: All rights reserved.
   disclaimer: Content and opinions are provided for informational purposes.
+
+storage_widget:
+  clear_button: Clear all site data
+  msg_confirm: This will delete all preferences and cached data stored by this site in your browser. Continue?
+  msg_done: All site data has been cleared.
+  msg_list: "Items removed: {list}."
+  msg_nothing: No site data was found in your browser.
+  msg_total: Total
+  key_afh_lang: Language preference
+  key_afh_theme: Theme preference
+  key_search_data: Search index cache
+  key_search_data_version: Search index version
+  key_afh_highlight_terms: Search highlight terms

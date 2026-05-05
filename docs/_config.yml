@@ -33,6 +33,12 @@ navigation:
   - title: Search
     key: search
     url: /search/
+  - title: Cookies
+    key: cookies
+    url: /cookies/
+    url_nl: /nl/cookies/
+    url_de: /de/cookies/
+    url_ar: /ar/cookies/
 
 # ── Social links ───────────────────────────────────────────────────────────────
 social_links:
