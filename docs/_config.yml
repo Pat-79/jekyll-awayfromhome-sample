@@ -178,4 +178,4 @@ defaults:
 
 # ── Feed settings ─────────────────────────────────────────────────────────────
 feed:
-  posts_limit: 50
+  posts_limit: 255
