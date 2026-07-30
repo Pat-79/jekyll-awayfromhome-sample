@@ -1,0 +1,37 @@
+name: Clean up old Actions artifacts
+
+# GitHub's own expiry sometimes lags well behind an artifact's actual
+# expires_at date - expired artifacts kept showing up in this repo's
+# artifact list (and counting against the account-wide Actions storage
+# quota) for months after they'd expired, which eventually blocked
+# artifact uploads across every repo on the account. Rather than rely on
+# GitHub's own cleanup, this deletes anything old itself: keeps only the
+# single most recent artifact and removes the rest on every run.
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  actions: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete all but the newest artifact
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          repo="${{ github.repository }}"
+          ids=$(gh api "repos/$repo/actions/artifacts?per_page=100" --paginate \
+            --jq '.artifacts | sort_by(.created_at) | reverse | .[1:] | .[].id')
+          if [ -z "$ids" ]; then
+            echo "Nothing to clean up."
+            exit 0
+          fi
+          for id in $ids; do
+            echo "Deleting artifact $id"
+            gh api --method DELETE "repos/$repo/actions/artifacts/$id" || true
+          done
